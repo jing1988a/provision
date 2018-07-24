@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/LetterPermu784.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/MoveZeros283.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +27,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LetterPermu784.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LetterPermu784.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LetterPermu784.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="22" selection-start-line="22" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="215">
+              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
               <folding>
                 <element signature="e#0#560#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveZeros283.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/MoveZeros283.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="16" selection-start-line="16" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#447#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +83,7 @@
         <option value="$PROJECT_DIR$/java/src/AvgLevelOfBTree637.java" />
         <option value="$PROJECT_DIR$/java/src/GoatLatin824.java" />
         <option value="$PROJECT_DIR$/java/src/LetterPermu784.java" />
+        <option value="$PROJECT_DIR$/java/src/MoveZeros283.java" />
       </list>
     </option>
   </component>
@@ -337,11 +350,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/LetterPermu784.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="22" selection-start-line="22" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="215">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
             <element signature="e#0#560#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/MoveZeros283.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="16" selection-start-line="16" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#447#0" expanded="true" />
           </folding>
         </state>
       </provider>
