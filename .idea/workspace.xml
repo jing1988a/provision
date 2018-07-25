@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/RomeToInt13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ReverseLL206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,14 +72,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomeToInt13.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RomeToInt13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/RomeToInt13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="55" selection-start-line="55" selection-end-line="75" selection-end-column="19" />
+            <state relative-caret-position="118">
+              <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
               <folding>
                 <element signature="e#0#1713#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseLL206.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ReverseLL206.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#75#76#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,12 +152,14 @@
         <option value="$PROJECT_DIR$/java/src/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRooms252.java" />
         <option value="$PROJECT_DIR$/java/src/RomeToInt13.java" />
+        <option value="$PROJECT_DIR$/java/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/java/src/ReverseLL206.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="270" />
-    <option name="y" value="149" />
+    <option name="x" value="450" />
+    <option name="y" value="54" />
     <option name="width" value="994" />
     <option name="height" value="710" />
   </component>
@@ -289,7 +314,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="270" y="149" width="994" height="710" extended-state="0" />
+    <frame x="450" y="54" width="994" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -304,7 +329,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33088234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33088234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -429,6 +454,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#540#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#652#660#0" expanded="true" />
+            <element signature="e#730#740#0" expanded="true" />
+            <element signature="e#836#846#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,6 +468,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -509,12 +545,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/RomeToInt13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="55" selection-start-line="55" selection-end-line="75" selection-end-column="19" />
+        <state relative-caret-position="118">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
           <folding>
             <element signature="e#0#1713#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ReverseLL206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
