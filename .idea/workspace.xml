@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/CountAndSay38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/RemoveDup26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountAndSay38.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountAndSay38.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/CountAndSay38.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDup26.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/RemoveDup26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="39" selection-start-line="39" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1557#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,12 +96,13 @@
         <option value="$PROJECT_DIR$/java/src/subTreeOfOther572.java" />
         <option value="$PROJECT_DIR$/java/src/TwoSum1.java" />
         <option value="$PROJECT_DIR$/java/src/CountAndSay38.java" />
+        <option value="$PROJECT_DIR$/java/src/RemoveDup26.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
-    <option name="y" value="93" />
+    <option name="x" value="215" />
+    <option name="y" value="81" />
     <option name="width" value="878" />
     <option name="height" value="568" />
   </component>
@@ -101,6 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,8 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -244,7 +257,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="93" width="878" height="568" extended-state="0" />
+    <frame x="215" y="81" width="878" height="568" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -583,6 +596,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/RemoveDup26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="39" selection-start-line="39" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1557#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
