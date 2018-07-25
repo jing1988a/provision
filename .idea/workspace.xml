@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/MissingNum268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/DiameterOfTree543.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MoveZeros283.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/MoveZeros283.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="16" selection-start-line="16" selection-end-line="33" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TwoSumBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TwoSumBST.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,13 +71,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissingNum268.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MissingNum268.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MissingNum268.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="e#0#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiameterOfTree543.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/DiameterOfTree543.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#574#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,6 +157,7 @@
         <option value="$PROJECT_DIR$/java/src/ReverseLL206.java" />
         <option value="$PROJECT_DIR$/java/src/SumOfLeftLeaf404.java" />
         <option value="$PROJECT_DIR$/java/src/MissingNum268.java" />
+        <option value="$PROJECT_DIR$/java/src/DiameterOfTree543.java" />
       </list>
     </option>
   </component>
@@ -329,7 +333,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33088234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33088234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -584,10 +588,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/MissingNum268.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="e#0#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/DiameterOfTree543.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#574#0" expanded="true" />
           </folding>
         </state>
       </provider>
