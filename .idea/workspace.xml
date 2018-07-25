@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/BTreePath257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/LowestCommonAncestor235.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,13 +25,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BTreePath257.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BTreePath257.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BTreePath257.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="28" selection-start-line="28" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="317">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestor235.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/LowestCommonAncestor235.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#1346#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,12 +85,13 @@
         <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray.java" />
         <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray674.java" />
         <option value="$PROJECT_DIR$/java/src/BTreePath257.java" />
+        <option value="$PROJECT_DIR$/java/src/LowestCommonAncestor235.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="624" />
-    <option name="y" value="109" />
+    <option name="x" value="260" />
+    <option name="y" value="102" />
     <option name="width" value="905" />
     <option name="height" value="673" />
   </component>
@@ -233,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="624" y="109" width="905" height="673" extended-state="0" />
+    <frame x="260" y="102" width="905" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -248,7 +261,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33088234" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33024335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -543,10 +556,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BTreePath257.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="28" selection-start-line="28" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="317">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/LowestCommonAncestor235.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#1346#0" expanded="true" />
           </folding>
         </state>
       </provider>
