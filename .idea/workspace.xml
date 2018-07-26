@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/PalinLInkedList234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/MergeSortedArray88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,13 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalinLInkedList234.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalinLInkedList234.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/PalinLInkedList234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+            <state relative-caret-position="251">
+              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
               <folding>
                 <element signature="e#0#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortedArray88.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/MergeSortedArray88.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#603#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,11 +142,12 @@
         <option value="$PROJECT_DIR$/java/src/AddBinary67.java" />
         <option value="$PROJECT_DIR$/java/src/ValidParenthese20.java" />
         <option value="$PROJECT_DIR$/java/src/PalinLInkedList234.java" />
+        <option value="$PROJECT_DIR$/java/src/MergeSortedArray88.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="711" />
+    <option name="x" value="712" />
     <option name="y" value="121" />
     <option name="width" value="696" />
     <option name="height" value="575" />
@@ -289,7 +303,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="711" y="121" width="696" height="575" extended-state="0" />
+    <frame x="712" y="121" width="696" height="575" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -304,7 +318,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33639145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33639145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -726,10 +740,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/PalinLInkedList234.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        <state relative-caret-position="251">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
           <folding>
             <element signature="e#0#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/MergeSortedArray88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#603#0" expanded="true" />
           </folding>
         </state>
       </provider>
