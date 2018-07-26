@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ValidParenthese20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/PalinLInkedList234.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,13 +61,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParenthese20.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidParenthese20.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ValidParenthese20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" column="31" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="310">
+              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalinLInkedList234.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/PalinLInkedList234.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#381#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,12 +128,13 @@
         <option value="$PROJECT_DIR$/java/src/RemoveDup26.java" />
         <option value="$PROJECT_DIR$/java/src/AddBinary67.java" />
         <option value="$PROJECT_DIR$/java/src/ValidParenthese20.java" />
+        <option value="$PROJECT_DIR$/java/src/PalinLInkedList234.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="120" />
+    <option name="x" value="711" />
+    <option name="y" value="121" />
     <option name="width" value="696" />
     <option name="height" value="575" />
   </component>
@@ -277,7 +289,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="120" width="696" height="575" extended-state="0" />
+    <frame x="711" y="121" width="696" height="575" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -292,7 +304,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33732057" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33639145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -704,10 +716,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ValidParenthese20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="310">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/PalinLInkedList234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#381#0" expanded="true" />
           </folding>
         </state>
       </provider>
