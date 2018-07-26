@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ReadNChar157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ValidPalindrome125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/ReadNChar157.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ReadNChar157.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,13 +41,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadNChar157.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadNChar157.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ReadNChar157.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="382">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
               <folding>
                 <element signature="e#0#1093#0" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidPalindrome125.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ValidPalindrome125.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="15" selection-start-line="15" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#424#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,12 +116,13 @@
         <option value="$PROJECT_DIR$/java/src/StrStr28.java" />
         <option value="$PROJECT_DIR$/java/src/Sqrt69.java" />
         <option value="$PROJECT_DIR$/java/src/ReadNChar157.java" />
+        <option value="$PROJECT_DIR$/java/src/ValidPalindrome125.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
-    <option name="y" value="120" />
+    <option name="x" value="294" />
+    <option name="y" value="211" />
     <option name="width" value="844" />
     <option name="height" value="645" />
   </component>
@@ -335,13 +351,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/AddBinary67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/subTreeOfOther572.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -708,10 +717,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ReadNChar157.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="382">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
           <folding>
             <element signature="e#0#1093#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ValidPalindrome125.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" selection-start-line="15" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#424#0" expanded="true" />
           </folding>
         </state>
       </provider>

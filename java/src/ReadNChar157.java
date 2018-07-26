@@ -32,4 +32,8 @@ public class ReadNChar157 {
         }
         return ans;
     }
+    private int read4(char[] buf){
+        return -1;
+    }
 }
+
