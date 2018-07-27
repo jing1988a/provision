@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/CornerRectangles750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/PalinSubStr647.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidPalinII680.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/ValidPalinII680.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StrStr28.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/StrStr28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="330">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
             </state>
           </provider>
@@ -35,7 +26,7 @@
       <file leaf-file-name="Sqrt69.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/Sqrt69.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="105">
               <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
@@ -44,13 +35,8 @@
       <file leaf-file-name="ReadNChar157.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/ReadNChar157.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
+            <state relative-caret-position="510">
               <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#1093#0" expanded="true" />
-                <element signature="e#1140#1141#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -58,11 +44,8 @@
       <file leaf-file-name="ValidPalindrome125.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/ValidPalindrome125.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="405">
               <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#424#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -70,11 +53,8 @@
       <file leaf-file-name="NumToExcel168.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/NumToExcel168.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="390">
               <caret line="26" column="20" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#497#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -82,13 +62,8 @@
       <file leaf-file-name="FirstBadVersion278.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/FirstBadVersion278.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="450">
               <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#920#0" expanded="true" />
-                <element signature="e#1239#1240#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,25 +80,31 @@
       <file leaf-file-name="TinyURL535.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TinyURL535.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-179">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="195">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
-                <element signature="e#0#568#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1273#1274#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CornerRectangles750.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CornerRectangles750.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/CornerRectangles750.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="15">
               <caret line="43" selection-start-line="43" selection-end-line="70" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalinSubStr647.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/PalinSubStr647.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="43" selection-end-column="5" />
               <folding>
-                <element signature="e#0#1255#0" expanded="true" />
+                <element signature="e#0#618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,12 +164,13 @@
         <option value="$PROJECT_DIR$/java/src/FirstBadVersion278.java" />
         <option value="$PROJECT_DIR$/java/src/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/CornerRectangles750.java" />
+        <option value="$PROJECT_DIR$/java/src/PalinSubStr647.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="142" />
+    <option name="x" value="292" />
+    <option name="y" value="252" />
     <option name="width" value="746" />
     <option name="height" value="594" />
   </component>
@@ -222,9 +204,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="142" width="746" height="594" extended-state="0" />
+    <frame x="292" y="252" width="746" height="594" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -361,8 +343,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27982953" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32997987" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2869318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -375,6 +356,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32997987" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,20 +402,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSum1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,9 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,9 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,9 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#381#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,74 +679,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#603#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/ValidPalinII680.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="300">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/StrStr28.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="330">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/Sqrt69.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="105">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/ReadNChar157.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
+        <state relative-caret-position="510">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#1093#0" expanded="true" />
-            <element signature="e#1140#1141#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/ValidPalindrome125.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="405">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#424#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/NumToExcel168.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="390">
           <caret line="26" column="20" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#497#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/FirstBadVersion278.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="450">
           <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#920#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,23 +740,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TinyURL535.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="195">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding>
-            <element signature="e#0#568#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/CornerRectangles750.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="15">
           <caret line="43" selection-start-line="43" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/PalinSubStr647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="43" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1255#0" expanded="true" />
+            <element signature="e#0#618#0" expanded="true" />
           </folding>
         </state>
       </provider>
