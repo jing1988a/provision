@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/PalinSubStr647.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StrStr28.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/StrStr28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Sqrt69.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/Sqrt69.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,14 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalinSubStr647.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalinSubStr647.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/PalinSubStr647.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
               <folding>
                 <element signature="e#0#618#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparseMatrixMulti311.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/SparseMatrixMulti311.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -165,12 +164,13 @@
         <option value="$PROJECT_DIR$/java/src/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/CornerRectangles750.java" />
         <option value="$PROJECT_DIR$/java/src/PalinSubStr647.java" />
+        <option value="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="252" />
+    <option name="x" value="540" />
+    <option name="y" value="182" />
     <option name="width" value="746" />
     <option name="height" value="594" />
   </component>
@@ -328,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="252" width="746" height="594" extended-state="0" />
+    <frame x="540" y="182" width="746" height="594" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -402,13 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSum1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/CountAndSay38.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -757,11 +750,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/PalinSubStr647.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding>
             <element signature="e#0#618#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SparseMatrixMulti311.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
         </state>
       </provider>
     </entry>
