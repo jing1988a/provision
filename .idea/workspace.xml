@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ProductExceptSelf238.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sqrt69.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/Sqrt69.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReadNChar157.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/ReadNChar157.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SparseMatrixMulti311.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SparseMatrixMulti311.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SparseMatrixMulti311.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="156">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductExceptSelf238.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ProductExceptSelf238.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="11" selection-start-line="11" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -165,6 +165,7 @@
         <option value="$PROJECT_DIR$/java/src/CornerRectangles750.java" />
         <option value="$PROJECT_DIR$/java/src/PalinSubStr647.java" />
         <option value="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" />
+        <option value="$PROJECT_DIR$/java/src/ProductExceptSelf238.java" />
       </list>
     </option>
   </component>
@@ -402,13 +403,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/CountAndSay38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -760,8 +754,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SparseMatrixMulti311.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ProductExceptSelf238.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" selection-start-line="11" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
