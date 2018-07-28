@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Subsets78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BrickWall554.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddBinary67.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/AddBinary67.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TinyURL535.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TinyURL535.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,13 +98,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subsets78.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Subsets78.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/Subsets78.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="24" selection-start-line="24" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
                 <element signature="e#0#416#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrickWall554.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/BrickWall554.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="28" selection-start-line="28" selection-end-line="49" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1264#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -181,6 +185,7 @@
         <option value="$PROJECT_DIR$/java/src/TotalHammingDistance477.java" />
         <option value="$PROJECT_DIR$/java/src/BestTimeStockWithFee714.java" />
         <option value="$PROJECT_DIR$/java/src/Subsets78.java" />
+        <option value="$PROJECT_DIR$/java/src/BrickWall554.java" />
       </list>
     </option>
   </component>
@@ -418,13 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/LetterPermu784.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/MoveZeros283.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -782,10 +780,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Subsets78.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="24" selection-start-line="24" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="e#0#416#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/BrickWall554.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" selection-start-line="28" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1264#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
