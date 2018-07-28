@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/BSTIterator173.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BSTIterator173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/TargetSum494.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProductExceptSelf238.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/ProductExceptSelf238.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="30" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SmallestSubtreeDeepestNodes865.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SmallestSubtreeDeepestNodes865.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,14 +113,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTIterator173.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BSTIterator173.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="357">
+              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <element signature="e#0#471#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TargetSum494.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/hammerDistance461.java" />
         <option value="$PROJECT_DIR$/java/src/Test1.java" />
         <option value="$PROJECT_DIR$/java/src/HammerDistance461.java" />
         <option value="$PROJECT_DIR$/java/src/TreeNode.java" />
@@ -201,6 +203,7 @@
         <option value="$PROJECT_DIR$/java/src/RandomPickDup398.java" />
         <option value="$PROJECT_DIR$/java/src/TimeOfThread636.java" />
         <option value="$PROJECT_DIR$/java/src/BSTIterator173.java" />
+        <option value="$PROJECT_DIR$/java/src/TargetSum494.java" />
       </list>
     </option>
   </component>
@@ -438,16 +441,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/MeetingRooms252.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Test1.java" />
     <entry file="file://$PROJECT_DIR$/java/src/easy/AvgLevelOfBTree637.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -827,11 +820,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="357">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
           <folding>
             <element signature="e#0#471#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
