@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/BTreeLevelOrder102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,26 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subsets78.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/Subsets78.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#416#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BrickWall554.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BrickWall554.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
               <folding>
-                <element signature="e#0#1264#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -42,10 +28,9 @@
       <file leaf-file-name="GateAndWall286.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/GateAndWall286.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="75">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
               <folding>
-                <element signature="e#0#862#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -55,11 +40,10 @@
       <file leaf-file-name="RandomPickDup398.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/RandomPickDup398.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="90">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
               <folding>
-                <element signature="e#0#722#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
                 <element signature="e#1169#1170#0" expanded="true" />
                 <element signature="e#1216#1217#0" expanded="true" />
               </folding>
@@ -70,10 +54,9 @@
       <file leaf-file-name="TimeOfThread636.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TimeOfThread636.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            <state relative-caret-position="180">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
               <folding>
-                <element signature="e#0#1837#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -83,10 +66,9 @@
       <file leaf-file-name="BSTIterator173.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="570">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding>
-                <element signature="e#0#471#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -96,11 +78,8 @@
       <file leaf-file-name="TargetSum494.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#645#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -108,24 +87,34 @@
       <file leaf-file-name="FlattenNestedLIst341.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/FlattenNestedLIst341.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+            <state relative-caret-position="585">
+              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
               <folding>
-                <element signature="e#0#1343#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BTreeLevelOrder102.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BTreeLevelOrder102.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BTreeLevelOrder102.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
+            <state relative-caret-position="135">
               <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
-                <element signature="e#0#499#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSizeSubarraySumEqualsK325.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#651#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/AvgLevelOfBTree637.java" />
         <option value="$PROJECT_DIR$/java/src/GoatLatin824.java" />
         <option value="$PROJECT_DIR$/java/src/LetterPermu784.java" />
         <option value="$PROJECT_DIR$/java/src/MoveZeros283.java" />
@@ -207,12 +195,13 @@
         <option value="$PROJECT_DIR$/java/src/NestedInteger.java" />
         <option value="$PROJECT_DIR$/java/src/FlattenNestedLIst341.java" />
         <option value="$PROJECT_DIR$/java/src/BTreeLevelOrder102.java" />
+        <option value="$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="85" />
+    <option name="x" value="52" />
+    <option name="y" value="69" />
     <option name="width" value="1286" />
     <option name="height" value="726" />
   </component>
@@ -224,6 +213,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,9 +238,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,7 +359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="85" width="1286" height="726" extended-state="0" />
+    <frame x="52" y="69" width="1286" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -385,7 +374,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16237941" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.164791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -444,13 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/GoatLatin824.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="93" column="41" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/LetterPermu784.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -612,9 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#381#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,10 +727,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/Subsets78.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="285">
           <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
-            <element signature="e#0#416#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -762,10 +737,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BrickWall554.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding>
-            <element signature="e#0#1264#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -773,10 +747,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/GateAndWall286.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        <state relative-caret-position="75">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
-            <element signature="e#0#862#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -784,11 +757,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/RandomPickDup398.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="90">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
-            <element signature="e#0#722#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
             <element signature="e#1169#1170#0" expanded="true" />
             <element signature="e#1216#1217#0" expanded="true" />
           </folding>
@@ -797,10 +769,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TimeOfThread636.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        <state relative-caret-position="180">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
           <folding>
-            <element signature="e#0#1837#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -808,10 +779,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="570">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
           <folding>
-            <element signature="e#0#471#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -819,11 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#645#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -836,10 +803,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/FlattenNestedLIst341.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        <state relative-caret-position="585">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
           <folding>
-            <element signature="e#0#1343#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -847,11 +813,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BTreeLevelOrder102.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="135">
           <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
-            <element signature="e#0#499#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#651#0" expanded="true" />
           </folding>
         </state>
       </provider>
