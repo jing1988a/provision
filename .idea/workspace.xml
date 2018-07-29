@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/TaskScheduler621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/DecodeString394.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandomPickDup398.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RandomPickDup398.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-              <folding>
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#1169#1170#0" expanded="true" />
-                <element signature="e#1216#1217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TimeOfThread636.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TimeOfThread636.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,13 +92,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskScheduler621.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskScheduler621.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TaskScheduler621.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="18" selection-start-line="18" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="290">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
                 <element signature="e#0#915#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeString394.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/DecodeString394.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#783#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/TwoSumBST.java" />
         <option value="$PROJECT_DIR$/java/src/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRooms252.java" />
         <option value="$PROJECT_DIR$/java/src/RomeToInt13.java" />
@@ -193,6 +192,7 @@
         <option value="$PROJECT_DIR$/java/src/CombinationSumIV.java" />
         <option value="$PROJECT_DIR$/java/src/CombinationSumIV377.java" />
         <option value="$PROJECT_DIR$/java/src/TaskScheduler621.java" />
+        <option value="$PROJECT_DIR$/java/src/DecodeString394.java" />
       </list>
     </option>
   </component>
@@ -430,13 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSumBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="29" selection-start-line="29" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/Interval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -647,6 +640,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -823,10 +819,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TaskScheduler621.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="18" selection-start-line="18" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="290">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
             <element signature="e#0#915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/DecodeString394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#783#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
