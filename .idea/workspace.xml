@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/SortColors75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,14 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortColors75.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortColors75.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SortColors75.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="21" selection-start-line="21" selection-end-line="40" selection-end-column="5" />
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="e#0#853#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncreasingTripletSubsequence334.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="21" selection-start-line="21" selection-end-line="34" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -82,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/StockI121.java" />
-        <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray.java" />
         <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray674.java" />
         <option value="$PROJECT_DIR$/java/src/BTreePath257.java" />
         <option value="$PROJECT_DIR$/java/src/LowestCommonAncestor235.java" />
@@ -133,12 +140,14 @@
         <option value="$PROJECT_DIR$/java/src/easy/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/SortColors75.java" />
+        <option value="$PROJECT_DIR$/java/src/easy/IncreasingTripletSubsequence334.java" />
+        <option value="$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="607" />
-    <option name="y" value="102" />
+    <option name="x" value="631" />
+    <option name="y" value="103" />
     <option name="width" value="813" />
     <option name="height" value="674" />
   </component>
@@ -169,6 +178,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -186,6 +202,9 @@
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -312,7 +331,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="607" y="102" width="813" height="674" extended-state="0" />
+    <frame x="631" y="103" width="813" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -411,13 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/StockI121.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/LongestIncresingSubArray674.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -821,10 +833,17 @@
     <entry file="file://$PROJECT_DIR$/java/src/SortColors75.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="21" selection-start-line="21" selection-end-line="40" selection-end-column="5" />
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="e#0#853#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" selection-start-line="21" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
