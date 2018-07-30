@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/MaximumSwap670.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IsGraphBipartite785.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,13 +75,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSwap670.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumSwap670.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MaximumSwap670.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="175">
+              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
               <folding>
                 <element signature="e#0#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsGraphBipartite785.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/IsGraphBipartite785.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#1565#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/LowestCommonAncestor235.java" />
         <option value="$PROJECT_DIR$/java/src/subTreeOfOther572.java" />
         <option value="$PROJECT_DIR$/java/src/TwoSum1.java" />
         <option value="$PROJECT_DIR$/java/src/CountAndSay38.java" />
@@ -168,13 +179,14 @@
         <option value="$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java" />
         <option value="$PROJECT_DIR$/java/src/SubsetsII90.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSwap670.java" />
+        <option value="$PROJECT_DIR$/java/src/IsGraphBipartite785.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="553" />
+    <option name="x" value="631" />
     <option name="y" value="105" />
-    <option name="width" value="891" />
+    <option name="width" value="813" />
     <option name="height" value="674" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -203,13 +215,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,7 +362,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="553" y="105" width="891" height="674" extended-state="0" />
+    <frame x="631" y="105" width="813" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -373,13 +378,13 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17769131" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17667845" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.49046794" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.49046794" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -453,13 +458,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/MaximumSwap670.java</url>
-          <line>61</line>
+          <line>63</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/MaximumSwap670.java</url>
-          <line>29</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -468,13 +473,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/LowestCommonAncestor235.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/ValidParenthese20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -884,10 +882,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/MaximumSwap670.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="175">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
           <folding>
             <element signature="e#0#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/IsGraphBipartite785.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#1565#0" expanded="true" />
           </folding>
         </state>
       </provider>
