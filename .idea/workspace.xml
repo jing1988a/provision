@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/KthLargestElementinArray215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ContiguousArray525.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BSTIterator173.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TargetSum494.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,13 +93,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthLargestElementinArray215.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KthLargestElementinArray215.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/KthLargestElementinArray215.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="e#0#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContiguousArray525.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ContiguousArray525.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#0#604#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MeetingRooms252.java" />
         <option value="$PROJECT_DIR$/java/src/RomeToInt13.java" />
         <option value="$PROJECT_DIR$/java/src/ListNode.java" />
         <option value="$PROJECT_DIR$/java/src/ReverseLL206.java" />
@@ -193,14 +193,15 @@
         <option value="$PROJECT_DIR$/java/src/TaskScheduler621.java" />
         <option value="$PROJECT_DIR$/java/src/DecodeString394.java" />
         <option value="$PROJECT_DIR$/java/src/KthLargestElementinArray215.java" />
+        <option value="$PROJECT_DIR$/java/src/ContiguousArray525.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="69" />
-    <option name="width" value="1286" />
-    <option name="height" value="726" />
+    <option name="x" value="262" />
+    <option name="y" value="153" />
+    <option name="width" value="1076" />
+    <option name="height" value="642" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -356,7 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="69" width="1286" height="726" extended-state="0" />
+    <frame x="262" y="153" width="1076" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -371,7 +372,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25643086" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25643086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -430,13 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/HammerDistance461.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -837,6 +831,17 @@
           <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="e#0#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ContiguousArray525.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#0#604#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
