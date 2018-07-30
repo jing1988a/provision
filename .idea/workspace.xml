@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/MeetingRoomsII253.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/easy/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/easy/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/SortColors75.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,13 +28,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MeetingRoomsII253.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MeetingRoomsII253.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MeetingRoomsII253.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="228">
+              <caret line="29" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortColors75.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/SortColors75.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="21" selection-start-line="21" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#853#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/DiameterOfTree543.java" />
         <option value="$PROJECT_DIR$/java/src/StockI121.java" />
         <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray.java" />
         <option value="$PROJECT_DIR$/java/src/LongestIncresingSubArray674.java" />
@@ -123,6 +132,7 @@
         <option value="$PROJECT_DIR$/java/src/GroupAnagrams49.java" />
         <option value="$PROJECT_DIR$/java/src/easy/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRoomsII253.java" />
+        <option value="$PROJECT_DIR$/java/src/SortColors75.java" />
       </list>
     </option>
   </component>
@@ -401,13 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/DiameterOfTree543.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/StockI121.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -807,10 +810,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/MeetingRoomsII253.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="228">
+          <caret line="29" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SortColors75.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" selection-start-line="21" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#853#0" expanded="true" />
           </folding>
         </state>
       </provider>
