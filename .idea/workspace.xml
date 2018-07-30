@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/DecodeString394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/KthLargestElementinArray215.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TimeOfThread636.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/TimeOfThread636.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BSTIterator173.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BSTIterator173.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecodeString394.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DecodeString394.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/DecodeString394.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -112,6 +100,18 @@
               <folding>
                 <element signature="e#0#783#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthLargestElementinArray215.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/KthLargestElementinArray215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRooms252.java" />
         <option value="$PROJECT_DIR$/java/src/RomeToInt13.java" />
         <option value="$PROJECT_DIR$/java/src/ListNode.java" />
@@ -193,6 +192,7 @@
         <option value="$PROJECT_DIR$/java/src/CombinationSumIV377.java" />
         <option value="$PROJECT_DIR$/java/src/TaskScheduler621.java" />
         <option value="$PROJECT_DIR$/java/src/DecodeString394.java" />
+        <option value="$PROJECT_DIR$/java/src/KthLargestElementinArray215.java" />
       </list>
     </option>
   </component>
@@ -430,13 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -834,6 +827,16 @@
           <folding>
             <element signature="e#0#783#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/KthLargestElementinArray215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
