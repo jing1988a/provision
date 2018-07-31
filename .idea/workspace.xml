@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/MergeIntervals56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ImplementTrie208.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,13 +29,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeIntervals56.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeIntervals56.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MergeIntervals56.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="363">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="e#0#466#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImplementTrie208.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="79" selection-start-line="79" selection-end-line="119" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#2001#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -82,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/NumToExcel168.java" />
         <option value="$PROJECT_DIR$/java/src/FirstBadVersion278.java" />
         <option value="$PROJECT_DIR$/java/src/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/CornerRectangles750.java" />
@@ -133,12 +144,13 @@
         <option value="$PROJECT_DIR$/java/src/PopulatingNextRightPointersEachNodeII117.java" />
         <option value="$PROJECT_DIR$/java/src/MinimumSizeSubarraySum209.java" />
         <option value="$PROJECT_DIR$/java/src/MergeIntervals56.java" />
+        <option value="$PROJECT_DIR$/java/src/ImplementTrie208.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="406" />
-    <option name="y" value="159" />
+    <option name="x" value="399" />
+    <option name="y" value="205" />
     <option name="width" value="997" />
     <option name="height" value="674" />
   </component>
@@ -167,13 +179,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,7 +327,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="406" y="159" width="997" height="674" extended-state="0" />
+    <frame x="399" y="205" width="997" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -469,13 +474,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/AddBinary67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TinyURL535.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -836,10 +834,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/MergeIntervals56.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="363">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="e#0#466#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="79" selection-start-line="79" selection-end-line="119" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#2001#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
