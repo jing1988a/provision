@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/InorderSuccessorBST285.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/AccountsMerge721.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,14 +73,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InorderSuccessorBST285.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InorderSuccessorBST285.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/InorderSuccessorBST285.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="29" selection-start-line="29" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="396">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="e#0#569#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountsMerge721.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/AccountsMerge721.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="108" column="32" lean-forward="true" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#1980#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphValidTree261.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/GraphValidTree261.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -115,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/ValidPalinII680.java" />
         <option value="$PROJECT_DIR$/java/src/StrStr28.java" />
         <option value="$PROJECT_DIR$/java/src/Sqrt69.java" />
         <option value="$PROJECT_DIR$/java/src/ReadNChar157.java" />
@@ -158,7 +178,6 @@
         <option value="$PROJECT_DIR$/java/src/SubsetsII90.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSwap670.java" />
         <option value="$PROJECT_DIR$/java/src/IsGraphBipartite785.java" />
-        <option value="$PROJECT_DIR$/java/src/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/BinaryTreeVerticalOrderTraversal314.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveDuplicatesSortedArrayII80.java" />
         <option value="$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java" />
@@ -166,12 +185,14 @@
         <option value="$PROJECT_DIR$/java/src/FindTheCelebrity277.java" />
         <option value="$PROJECT_DIR$/java/src/HIndexII275.java" />
         <option value="$PROJECT_DIR$/java/src/InorderSuccessorBST285.java" />
+        <option value="$PROJECT_DIR$/java/src/GraphValidTree261.java" />
+        <option value="$PROJECT_DIR$/java/src/AccountsMerge721.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="524" />
-    <option name="y" value="105" />
+    <option name="x" value="526" />
+    <option name="y" value="87" />
     <option name="width" value="809" />
     <option name="height" value="674" />
   </component>
@@ -241,7 +262,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesSortedArrayII80">
+  <component name="RunManager" selected="Application.AccountsMerge721">
+    <configuration name="AccountsMerge721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccountsMerge721" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="InsertDeleteGetRandom380" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertDeleteGetRandom380" />
       <module name="java" />
@@ -254,11 +280,6 @@
     </configuration>
     <configuration name="MaximumSwap670" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaximumSwap670" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MeetingRooms252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.MeetingRooms252" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -309,19 +330,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MeetingRooms252" />
       <item itemvalue="Application.LargestPlusSign764" />
       <item itemvalue="Application.InsertDeleteGetRandom380" />
       <item itemvalue="Application.MaximumSwap670" />
       <item itemvalue="Application.RemoveDuplicatesSortedArrayII80" />
+      <item itemvalue="Application.AccountsMerge721" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountsMerge721" />
         <item itemvalue="Application.RemoveDuplicatesSortedArrayII80" />
         <item itemvalue="Application.MaximumSwap670" />
         <item itemvalue="Application.LargestPlusSign764" />
         <item itemvalue="Application.InsertDeleteGetRandom380" />
-        <item itemvalue="Application.MeetingRooms252" />
       </list>
     </recent_temporary>
   </component>
@@ -348,11 +369,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="524" y="105" width="809" height="674" extended-state="0" />
+    <frame x="526" y="87" width="809" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -368,7 +390,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.49046794" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.49046794" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -377,7 +399,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32928944" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,18 +481,29 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/AccountsMerge721.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/AccountsMerge721.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/AccountsMerge721.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/StrStr28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/Sqrt69.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -713,6 +745,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,13 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/GraphValidTree261.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -837,10 +865,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/InorderSuccessorBST285.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="29" selection-start-line="29" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
             <element signature="e#0#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/GraphValidTree261.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/AccountsMerge721.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="108" column="32" lean-forward="true" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#1980#0" expanded="true" />
           </folding>
         </state>
       </provider>
