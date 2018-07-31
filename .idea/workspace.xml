@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/NumberOfIslands200.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,14 +28,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LetterCombinationsPhoneNumber17.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LetterCombinationsPhoneNumber17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="138">
+              <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
               <folding>
                 <element signature="e#0#913#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfIslands200.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/NumberOfIslands200.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="24" selection-start-line="24" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#559#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/AddBinary67.java" />
         <option value="$PROJECT_DIR$/java/src/ValidParenthese20.java" />
         <option value="$PROJECT_DIR$/java/src/PalinLInkedList234.java" />
         <option value="$PROJECT_DIR$/java/src/MergeSortedArray88.java" />
@@ -122,6 +133,7 @@
         <option value="$PROJECT_DIR$/java/src/BinaryTreeVerticalOrderTraversal314.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveDuplicatesSortedArrayII80.java" />
         <option value="$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java" />
+        <option value="$PROJECT_DIR$/java/src/NumberOfIslands200.java" />
       </list>
     </option>
   </component>
@@ -320,7 +332,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19061583" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19035202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -421,13 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/PalinLInkedList234.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -803,11 +808,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="138">
+          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
           <folding>
             <element signature="e#0#913#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/NumberOfIslands200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" selection-start-line="24" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#559#0" expanded="true" />
           </folding>
         </state>
       </provider>
