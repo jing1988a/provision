@@ -78,7 +78,7 @@ public class ImplementTrie208 {
 
     /** Initialize your data structure here. */
     Node root=new Node();
-    public Trie() {
+    public ImplementTrie208() {
 
     }
 
