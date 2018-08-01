@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/OneEditDistance161.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/java/src/MinimumSizeSubarraySum209.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding>
                 <element signature="e#0#878#0" expanded="true" />
               </folding>
@@ -45,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
-              <caret line="78" column="47" lean-forward="true" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+              <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
               <folding>
                 <element signature="e#0#2001#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -58,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/java/src/WordBreak139.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
               <folding>
                 <element signature="e#0#1011#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -71,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/java/src/WordBreakII140.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
               <folding>
                 <element signature="e#0#1185#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -84,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="83">
-              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
               <folding>
                 <element signature="e#0#670#0" expanded="true" />
               </folding>
@@ -92,13 +93,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberLongestIncreasingSubsequence673.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberLongestIncreasingSubsequence673.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="282">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="e#0#707#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneEditDistance161.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/OneEditDistance161.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#790#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" />
         <option value="$PROJECT_DIR$/java/src/ProductExceptSelf238.java" />
         <option value="$PROJECT_DIR$/java/src/SmallestSubtreeDeepestNodes865.java" />
         <option value="$PROJECT_DIR$/java/src/TotalHammingDistance477.java" />
@@ -194,13 +206,14 @@
         <option value="$PROJECT_DIR$/java/src/WordBreakII140.java" />
         <option value="$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java" />
         <option value="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" />
+        <option value="$PROJECT_DIR$/java/src/OneEditDistance161.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="523" />
+    <option name="x" value="521" />
     <option name="y" value="114" />
-    <option name="width" value="894" />
+    <option name="width" value="896" />
     <option name="height" value="690" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -215,16 +228,16 @@
         <subPane>
           <expand>
             <path>
-              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="leetcode_fb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -376,7 +389,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="523" y="114" width="894" height="690" extended-state="0" />
+    <frame x="521" y="114" width="896" height="690" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -523,13 +536,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/ProductExceptSelf238.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="30" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SmallestSubtreeDeepestNodes865.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -839,7 +845,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/MinimumSizeSubarraySum209.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding>
             <element signature="e#0#878#0" expanded="true" />
           </folding>
@@ -867,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="78" column="47" lean-forward="true" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+          <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
           <folding>
             <element signature="e#0#2001#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -878,7 +884,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/WordBreak139.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="e#0#1011#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -889,7 +895,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/WordBreakII140.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
-          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
           <folding>
             <element signature="e#0#1185#0" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -900,7 +906,7 @@
     <entry file="file://$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
           <folding>
             <element signature="e#0#670#0" expanded="true" />
           </folding>
@@ -909,10 +915,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="282">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="e#0#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/OneEditDistance161.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -934,7 +950,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
