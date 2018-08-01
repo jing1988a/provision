@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ImplementTrie208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/WordBreak139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/WordBreakII140.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,13 +43,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImplementTrie208.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImplementTrie208.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="79" selection-start-line="79" selection-end-line="119" selection-end-column="5" />
+            <state relative-caret-position="93">
+              <caret line="78" column="47" lean-forward="true" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
               <folding>
                 <element signature="e#0#2001#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordBreak139.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/WordBreak139.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#1011#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordBreakII140.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/WordBreakII140.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="45" selection-start-line="45" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1185#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -94,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/FirstBadVersion278.java" />
-        <option value="$PROJECT_DIR$/java/src/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/CornerRectangles750.java" />
         <option value="$PROJECT_DIR$/java/src/PalinSubStr647.java" />
         <option value="$PROJECT_DIR$/java/src/SparseMatrixMulti311.java" />
@@ -145,12 +170,14 @@
         <option value="$PROJECT_DIR$/java/src/MinimumSizeSubarraySum209.java" />
         <option value="$PROJECT_DIR$/java/src/MergeIntervals56.java" />
         <option value="$PROJECT_DIR$/java/src/ImplementTrie208.java" />
+        <option value="$PROJECT_DIR$/java/src/WordBreak139.java" />
+        <option value="$PROJECT_DIR$/java/src/WordBreakII140.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="399" />
-    <option name="y" value="205" />
+    <option name="x" value="362" />
+    <option name="y" value="244" />
     <option name="width" value="997" />
     <option name="height" value="674" />
   </component>
@@ -327,7 +354,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="399" y="205" width="997" height="674" extended-state="0" />
+    <frame x="362" y="244" width="997" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -474,20 +501,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/TinyURL535.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/CornerRectangles750.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="43" selection-start-line="43" selection-end-line="70" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/PalinSubStr647.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -845,10 +858,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ImplementTrie208.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="79" selection-start-line="79" selection-end-line="119" selection-end-column="5" />
+        <state relative-caret-position="93">
+          <caret line="78" column="47" lean-forward="true" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
           <folding>
             <element signature="e#0#2001#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WordBreak139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#1011#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WordBreakII140.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="45" selection-start-line="45" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1185#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
