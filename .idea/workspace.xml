@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/PowXN50.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberLongestIncreasingSubsequence673.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CourseScheduleII210.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/CourseScheduleII210.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,13 +98,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddSearchWordDatastructureDesign211.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddSearchWordDatastructureDesign211.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="24" selection-start-line="24" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="125">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="e#0#671#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowXN50.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/PowXN50.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="24" selection-start-line="24" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/BSTIterator173.java" />
         <option value="$PROJECT_DIR$/java/src/TargetSum494.java" />
         <option value="$PROJECT_DIR$/java/src/NestedInteger.java" />
         <option value="$PROJECT_DIR$/java/src/FlattenNestedLIst341.java" />
@@ -192,14 +195,15 @@
         <option value="$PROJECT_DIR$/java/src/MultiplyStrings43.java" />
         <option value="$PROJECT_DIR$/java/src/SimplifyPath71.java" />
         <option value="$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java" />
+        <option value="$PROJECT_DIR$/java/src/PowXN50.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="526" />
-    <option name="y" value="85" />
-    <option name="width" value="896" />
-    <option name="height" value="588" />
+    <option name="x" value="516" />
+    <option name="y" value="75" />
+    <option name="width" value="906" />
+    <option name="height" value="659" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -274,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CourseScheduleII210">
+  <component name="RunManager" selected="Application.PowXN50">
     <configuration name="AccountsMerge721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccountsMerge721" />
       <module name="java" />
@@ -285,13 +289,13 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MaximumSwap670" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSwap670" />
+    <configuration name="MinimumSizeSubarraySum209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumSizeSubarraySum209" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MinimumSizeSubarraySum209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumSizeSubarraySum209" />
+    <configuration name="PowXN50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowXN50" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -342,19 +346,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MaximumSwap670" />
       <item itemvalue="Application.RemoveDuplicatesSortedArrayII80" />
       <item itemvalue="Application.AccountsMerge721" />
       <item itemvalue="Application.MinimumSizeSubarraySum209" />
       <item itemvalue="Application.CourseScheduleII210" />
+      <item itemvalue="Application.PowXN50" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowXN50" />
         <item itemvalue="Application.CourseScheduleII210" />
         <item itemvalue="Application.MinimumSizeSubarraySum209" />
         <item itemvalue="Application.AccountsMerge721" />
         <item itemvalue="Application.RemoveDuplicatesSortedArrayII80" />
-        <item itemvalue="Application.MaximumSwap670" />
       </list>
     </recent_temporary>
   </component>
@@ -381,11 +385,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="526" y="85" width="896" height="588" extended-state="0" />
+    <frame x="516" y="75" width="906" height="598" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -396,17 +401,16 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.47093022" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4699074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.4892916" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.48902196" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -535,18 +539,17 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/PowXN50.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/TargetSum494.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/NestedInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -911,10 +914,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="24" selection-start-line="24" selection-end-line="73" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="e#0#671#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/PowXN50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="24" selection-start-line="24" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
