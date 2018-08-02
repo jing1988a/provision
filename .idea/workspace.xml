@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ThreeSum15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FriendsOfAppropriateAges825.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FriendsOfAppropriateAges825.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WordSearch79.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/WordSearch79.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,14 +110,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreeSum15.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreeSum15.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ThreeSum15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+            <state relative-caret-position="60">
+              <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="59" />
               <folding>
                 <element signature="e#0#459#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertBinarySearchTreeSortedDoublyLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="30" selection-start-line="30" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#1377#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java" />
         <option value="$PROJECT_DIR$/java/src/CombinationSumIV.java" />
         <option value="$PROJECT_DIR$/java/src/CombinationSumIV377.java" />
         <option value="$PROJECT_DIR$/java/src/TaskScheduler621.java" />
@@ -204,6 +206,7 @@
         <option value="$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java" />
         <option value="$PROJECT_DIR$/java/src/ContinuousSubarraySum523.java" />
         <option value="$PROJECT_DIR$/java/src/ThreeSum15.java" />
+        <option value="$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -397,12 +400,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3270548" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3270548" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33968803" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4681344" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4672544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -563,13 +566,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/DecodeString394.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/TaskScheduler621.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -948,11 +944,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ThreeSum15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        <state relative-caret-position="60">
+          <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="59" />
           <folding>
             <element signature="e#0#459#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="30" selection-start-line="30" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#1377#0" expanded="true" />
           </folding>
         </state>
       </provider>
