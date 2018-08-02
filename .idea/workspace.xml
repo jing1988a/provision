@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/CloneGraph133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaximalSquare221.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/MaximalSquare221.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LowestCommonAncestorBinaryTree236.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LowestCommonAncestorBinaryTree236.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,13 +104,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloneGraph133.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CloneGraph133.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/CloneGraph133.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="93" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="77" column="88" lean-forward="true" selection-start-line="77" selection-start-column="88" selection-end-line="77" selection-end-column="88" />
               <folding>
                 <element signature="e#0#2255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateBinarySearchTree98.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="29" selection-start-line="29" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#802#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/NestedInteger.java" />
         <option value="$PROJECT_DIR$/java/src/FlattenNestedLIst341.java" />
         <option value="$PROJECT_DIR$/java/src/BTreeLevelOrder102.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSizeSubarraySumEqualsK325.java" />
@@ -196,13 +199,14 @@
         <option value="$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java" />
         <option value="$PROJECT_DIR$/java/src/PowXN50.java" />
         <option value="$PROJECT_DIR$/java/src/CloneGraph133.java" />
+        <option value="$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="516" />
-    <option name="y" value="75" />
-    <option name="width" value="906" />
+    <option name="x" value="499" />
+    <option name="y" value="93" />
+    <option name="width" value="876" />
     <option name="height" value="659" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -385,7 +389,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="516" y="75" width="906" height="659" extended-state="0" />
+    <frame x="501" y="95" width="876" height="659" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -550,13 +554,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/FlattenNestedLIst341.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ContiguousArray525.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -929,10 +926,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/CloneGraph133.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="93" selection-end-column="5" />
+        <state relative-caret-position="126">
+          <caret line="77" column="88" lean-forward="true" selection-start-line="77" selection-start-column="88" selection-end-line="77" selection-end-column="88" />
           <folding>
             <element signature="e#0#2255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" selection-start-line="29" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#802#0" expanded="true" />
           </folding>
         </state>
       </provider>
