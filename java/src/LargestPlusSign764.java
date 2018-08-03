@@ -55,7 +55,7 @@
 //        (Additionally, programs submitted in C, C++, or C# will be judged with a slightly smaller time limit.)
 
 
-import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
+
 
 // brute force is easy to think but slow.
 //  there are lots of duplicate caculation, can we improve.
