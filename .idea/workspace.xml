@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestPlusSign764.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LetterCombinationsPhoneNumber17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,14 +101,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RobotRoomCleaner489.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RobotRoomCleaner489.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+            <state relative-caret-position="52">
+              <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
               <folding>
                 <element signature="e#0#2581#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseNodeskGroup25.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#689#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/SortColors75.java" />
         <option value="$PROJECT_DIR$/java/src/easy/IncreasingTripletSubsequence334.java" />
         <option value="$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java" />
@@ -204,6 +208,7 @@
         <option value="$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java" />
         <option value="$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java" />
         <option value="$PROJECT_DIR$/java/src/RobotRoomCleaner489.java" />
+        <option value="$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java" />
       </list>
     </option>
   </component>
@@ -397,12 +402,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32561505" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32561505" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info id="Project" order="0" visible="true" weight="0.24871355" />
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.24871355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -587,13 +592,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/LowestCommonAncestorBinaryTree236.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/MinimumSwapsToMakeSequencesIncreasing801.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -963,11 +961,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        <state relative-caret-position="52">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
           <folding>
             <element signature="e#0#2581#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#689#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
           </folding>
         </state>
       </provider>
