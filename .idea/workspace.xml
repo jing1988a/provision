@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KthLargestElementinArray215.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/KthLargestElementinArray215.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LargestPlusSign764.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,13 +97,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerializeandDeserializeBinaryTree297.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SerializeandDeserializeBinaryTree297.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
-              <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+            <state relative-caret-position="198">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
               <folding>
                 <element signature="e#0#2558#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RobotRoomCleaner489.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#2581#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -149,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/easy/Interval.java" />
         <option value="$PROJECT_DIR$/java/src/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/SortColors75.java" />
         <option value="$PROJECT_DIR$/java/src/easy/IncreasingTripletSubsequence334.java" />
@@ -200,12 +203,13 @@
         <option value="$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java" />
         <option value="$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java" />
+        <option value="$PROJECT_DIR$/java/src/RobotRoomCleaner489.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
-    <option name="y" value="30" />
+    <option name="x" value="1353" />
+    <option name="y" value="161" />
     <option name="width" value="1533" />
     <option name="height" value="1034" />
   </component>
@@ -275,14 +279,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SplitArrayLargestSum410">
-    <configuration name="CourseScheduleII210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.CourseScheduleII210" />
+  <component name="RunManager" selected="Application.RobotRoomCleaner489">
+    <configuration name="PowXN50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.PowXN50" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PowXN50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.PowXN50" />
+    <configuration name="RobotRoomCleaner489" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RobotRoomCleaner489" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -343,19 +347,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CourseScheduleII210" />
       <item itemvalue="Application.PowXN50" />
       <item itemvalue="Application.ThreeSum15" />
       <item itemvalue="Application.WordLadder127" />
       <item itemvalue="Application.SplitArrayLargestSum410" />
+      <item itemvalue="Application.RobotRoomCleaner489" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotRoomCleaner489" />
         <item itemvalue="Application.SplitArrayLargestSum410" />
         <item itemvalue="Application.WordLadder127" />
         <item itemvalue="Application.ThreeSum15" />
         <item itemvalue="Application.PowXN50" />
-        <item itemvalue="Application.CourseScheduleII210" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +386,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="378" y="24" width="1226" height="827" extended-state="0" />
+    <frame x="1083" y="129" width="1226" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -393,17 +397,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3270548" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32561505" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" id="Project" order="0" visible="true" weight="0.21698113" />
+      <window_info id="Project" order="0" visible="true" weight="0.24871355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.43270624" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.43270624" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -583,13 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/MaximalSquare221.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/LowestCommonAncestorBinaryTree236.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -955,10 +952,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
           <folding>
             <element signature="e#0#2558#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2581#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
