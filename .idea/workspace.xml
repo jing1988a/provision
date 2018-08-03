@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImplementTrie208.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/ImplementTrie208.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IncreasingTripletSubsequence334.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/IncreasingTripletSubsequence334.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,13 +96,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SplitArrayLargestSum410.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SplitArrayLargestSum410.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="68" column="71" lean-forward="true" selection-start-line="68" selection-start-column="71" selection-end-line="68" selection-end-column="71" />
+            <state relative-caret-position="334">
+              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
               <folding>
                 <element signature="e#0#757#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaintHouseII265.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/PaintHouseII265.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="20" selection-start-line="20" selection-end-line="49" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#970#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/KthLargestElementinArray215.java" />
         <option value="$PROJECT_DIR$/java/src/ContiguousArray525.java" />
         <option value="$PROJECT_DIR$/java/src/InsertDeleteGetRandom380.java" />
         <option value="$PROJECT_DIR$/java/src/GroupAnagrams49.java" />
@@ -189,13 +191,15 @@
         <option value="$PROJECT_DIR$/java/src/DecodeWays91.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java" />
         <option value="$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java" />
+        <option value="$PROJECT_DIR$/java/src/PaintHouseII265.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1476" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="742" />
+    <option name="y" value="27" />
     <option name="width" value="1533" />
-    <option name="height" value="1398" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -370,7 +374,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1181" y="0" width="1226" height="1118" extended-state="0" />
+    <frame x="-7" y="-7" width="2766" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -386,12 +390,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21698113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.093495935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30448064" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.3020202" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -571,13 +575,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/MergeIntervals56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/WordBreak139.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -930,10 +927,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="68" column="71" lean-forward="true" selection-start-line="68" selection-start-column="71" selection-end-line="68" selection-end-column="71" />
+        <state relative-caret-position="334">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding>
             <element signature="e#0#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/PaintHouseII265.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" selection-start-line="20" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#970#0" expanded="true" />
           </folding>
         </state>
       </provider>
