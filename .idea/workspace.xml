@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,58 +21,8 @@
       <file leaf-file-name="MaximumSum3NonOverlappingSubarrays689.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#915#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SplitArrayLargestSum410.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#757#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaintHouseII265.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/PaintHouseII265.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#970#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestConsecutiveSequence128.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#406#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveInvalidParentheses301.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="135">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,56 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerializeandDeserializeBinaryTree297.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
+      <file leaf-file-name="DesignSearchAutocompleteSystem642.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            <state relative-caret-position="287">
+              <caret line="108" column="19" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
               <folding>
-                <element signature="e#0#2558#0" expanded="true" />
+                <element signature="e#0#3879#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RobotRoomCleaner489.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#2581#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseNodeskGroup25.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#689#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#877#878#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionAddOperators282.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/ExpressionAddOperators282.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#0#749#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#1993#1994#0" expanded="true" />
-                <element signature="e#2027#2028#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +46,7 @@
       <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
@@ -164,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/easy/IncreasingTripletSubsequence334.java" />
         <option value="$PROJECT_DIR$/java/src/IncreasingTripletSubsequence334.java" />
         <option value="$PROJECT_DIR$/java/src/SubsetsII90.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSwap670.java" />
@@ -215,14 +123,14 @@
         <option value="$PROJECT_DIR$/java/src/RobotRoomCleaner489.java" />
         <option value="$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java" />
         <option value="$PROJECT_DIR$/java/src/ExpressionAddOperators282.java" />
+        <option value="$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1691" />
-    <option name="y" value="187" />
-    <option name="width" value="1533" />
-    <option name="height" value="1034" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -232,24 +140,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -257,6 +162,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,23 +305,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1353" y="150" width="1226" height="827" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="836" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.3287037" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32561505" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32561505" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" id="Project" order="0" visible="true" weight="0.24871355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25178826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -427,6 +334,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.3287037" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,398 +506,78 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/WordSearch79.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/medium/SearchRotatedSortedArray33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/MultiplyStrings43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/SimplifyPath71.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/PowXN50.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ValidateBinarySearchTree98.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ThreeSum15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/WordLadder127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#1277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/AccountsMerge721.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/AddSearchWordDatastructureDesign211.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BestTimeStockWithFee714.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BinaryTreeVerticalOrderTraversal314.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BrickWall554.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BSTIterator173.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BTreeLevelOrder102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CloneGraph133.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CombinationSumIV377.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ContiguousArray525.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CornerRectangles750.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeString394.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeWays91.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/FindTheCelebrity277.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/FlattenNestedLIst341.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/FriendsOfAppropriateAges825.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GraphValidTree261.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GroupAnagrams49.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/HIndex274.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/HIndexII275.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ImplementTrie208.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/IncreasingTripletSubsequence334.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/InorderSuccessorBST285.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/InsertDeleteGetRandom380.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/IsGraphBipartite785.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/KthLargestElementinArray215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/SearchRotatedSortedArray33.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/MultiplyStrings43.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/SimplifyPath71.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/PowXN50.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ValidateBinarySearchTree98.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ThreeSum15.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/WordLadder127.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/AccountsMerge721.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/AddSearchWordDatastructureDesign211.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/BestTimeStockWithFee714.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/BinaryTreeVerticalOrderTraversal314.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/BrickWall554.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/BSTIterator173.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/BTreeLevelOrder102.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/CloneGraph133.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/CombinationSumIV377.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ContiguousArray525.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/CornerRectangles750.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeString394.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeWays91.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/FindTheCelebrity277.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/FlattenNestedLIst341.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/FriendsOfAppropriateAges825.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/GroupAnagrams49.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/HIndex274.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/HIndexII275.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ImplementTrie208.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/IncreasingTripletSubsequence334.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/InorderSuccessorBST285.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/InsertDeleteGetRandom380.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/IsGraphBipartite785.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/KthLargestElementinArray215.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java" />
     <entry file="file://$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#915#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#757#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/PaintHouseII265.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#406#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/PaintHouseII265.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java" />
     <entry file="file://$PROJECT_DIR$/java/src/easy/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
+    <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/ExpressionAddOperators282.java" />
+    <entry file="file://$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="287">
+          <caret line="108" column="19" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
           <folding>
-            <element signature="e#0#2558#0" expanded="true" />
+            <element signature="e#0#3879#0" expanded="true" />
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#2581#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#689#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/ExpressionAddOperators282.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#0#749#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1993#1994#0" expanded="true" />
-            <element signature="e#2027#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
