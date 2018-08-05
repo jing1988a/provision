@@ -18,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RobotRoomCleaner489.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReverseNodeskGroup25.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZigzagIterator281.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZigzagIterator281.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
@@ -129,6 +117,15 @@
                 <element signature="e#1935#1936#0" expanded="true" />
                 <element signature="e#1967#1968#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignTicTacToe348.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="84" selection-start-line="84" selection-end-line="129" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -154,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/HIndexII275.java" />
         <option value="$PROJECT_DIR$/java/src/InorderSuccessorBST285.java" />
         <option value="$PROJECT_DIR$/java/src/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/AccountsMerge721.java" />
@@ -205,6 +201,7 @@
         <option value="$PROJECT_DIR$/java/src/WiggleSort280.java" />
         <option value="$PROJECT_DIR$/java/src/medium/WiggleSort280.java" />
         <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
       </list>
     </option>
   </component>
@@ -607,7 +604,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/WordLadder127.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/AccountsMerge721.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/AddSearchWordDatastructureDesign211.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BestTimeStockWithFee714.java" />
@@ -803,6 +799,13 @@
             <element signature="e#1935#1936#0" expanded="true" />
             <element signature="e#1967#1968#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="84" selection-start-line="84" selection-end-line="129" selection-end-column="5" />
         </state>
       </provider>
     </entry>
