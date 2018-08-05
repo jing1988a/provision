@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseNodeskGroup25.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExpressionAddOperators282.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ExpressionAddOperators282.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,11 +112,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignTicTacToe348.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DesignTicTacToe348.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="84" selection-start-line="84" selection-end-line="129" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortTransformedArray360.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="33" selection-start-line="33" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -151,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/InorderSuccessorBST285.java" />
         <option value="$PROJECT_DIR$/java/src/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/AccountsMerge721.java" />
         <option value="$PROJECT_DIR$/java/src/HIndex274.java" />
@@ -202,6 +201,7 @@
         <option value="$PROJECT_DIR$/java/src/medium/WiggleSort280.java" />
         <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java" />
       </list>
     </option>
   </component>
@@ -604,7 +604,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/AccountsMerge721.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/AddSearchWordDatastructureDesign211.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BestTimeStockWithFee714.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BinaryTreeVerticalOrderTraversal314.java" />
@@ -804,8 +803,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="84" selection-start-line="84" selection-end-line="129" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="33" selection-start-line="33" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
