@@ -18,27 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MovingAveragefromDataStream346.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/MovingAveragefromDataStream346.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClosestBinarySearchTreeValue270.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/ClosestBinarySearchTreeValue270.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StrobogrammaticNumber246.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/StrobogrammaticNumber246.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,11 +95,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiagonalTraverse498.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiagonalTraverse498.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/DiagonalTraverse498.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeSumSmaller259.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/ThreeSumSmaller259.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopKFrequentWords692.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/TopKFrequentWords692.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/AccountsMerge721.java" />
-        <option value="$PROJECT_DIR$/java/src/HIndex274.java" />
         <option value="$PROJECT_DIR$/java/src/PopulatingNextRightPointersEachNodeII117.java" />
         <option value="$PROJECT_DIR$/java/src/MinimumSizeSubarraySum209.java" />
         <option value="$PROJECT_DIR$/java/src/MergeIntervals56.java" />
@@ -197,12 +195,14 @@
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
         <option value="$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DiagonalTraverse498.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/ThreeSumSmaller259.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/TopKFrequentWords692.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1858" />
-    <option name="y" value="328" />
+    <option name="x" value="1138" />
+    <option name="y" value="247" />
     <option name="width" value="1440" />
     <option name="height" value="837" />
   </component>
@@ -386,7 +386,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1487" y="263" width="1152" height="669" extended-state="0" />
+    <frame x="911" y="198" width="1152" height="669" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -599,8 +599,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BestTimeStockWithFee714.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/medium/BinaryTreeVerticalOrderTraversal314.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BrickWall554.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BSTIterator173.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/BTreeLevelOrder102.java" />
@@ -811,8 +809,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/DiagonalTraverse498.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ThreeSumSmaller259.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/TopKFrequentWords692.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1151#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
