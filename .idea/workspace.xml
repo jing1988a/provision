@@ -18,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveInvalidParentheses301.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SerializeandDeserializeBinaryTree297.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,13 +98,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSumIIIDatastructuredesign170.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/TwoSumIIIDatastructuredesign170.java">
+      <file leaf-file-name="TwoSumIIIDatastructuredesign170.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding>
-                <element signature="e#0#529#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomSortString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/CustomSortString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+              <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -153,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/IsGraphBipartite785.java" />
-        <option value="$PROJECT_DIR$/java/src/BinaryTreeVerticalOrderTraversal314.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveDuplicatesSortedArrayII80.java" />
         <option value="$PROJECT_DIR$/java/src/LetterCombinationsPhoneNumber17.java" />
         <option value="$PROJECT_DIR$/java/src/NumberOfIslands200.java" />
@@ -204,6 +201,8 @@
         <option value="$PROJECT_DIR$/java/src/easy/ClosestBinarySearchTreeValue270.java" />
         <option value="$PROJECT_DIR$/java/src/easy/StrobogrammaticNumber246.java" />
         <option value="$PROJECT_DIR$/java/src/TwoSumIIIDatastructuredesign170.java" />
+        <option value="$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/CustomSortString.java" />
       </list>
     </option>
   </component>
@@ -244,7 +243,7 @@
               <item name="provision" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -606,7 +605,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/PowXN50.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ValidateBinarySearchTree98.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ThreeSum15.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/WordLadder127.java" />
@@ -769,12 +767,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/TwoSumIIIDatastructuredesign170.java">
+    <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="154">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding>
-            <element signature="e#0#529#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/CustomSortString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
