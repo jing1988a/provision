@@ -59,7 +59,7 @@ import java.util.Map;
 
 public class DesignSearchAutocompleteSystem642 {
     TrieNode root = new TrieNode();
-    String curSearch;
+    String curSearch="";
     TrieNode searchRoot=root;
 
     public DesignSearchAutocompleteSystem642(String[] sentences, int[] times) {
@@ -75,6 +75,7 @@ public class DesignSearchAutocompleteSystem642 {
             this.searchRoot=root;
             this.curSearch = "";
         } else {
+            this.curSearch=this.curSearch+String.valueOf(c);
             List<TrieNode> candidate=search(c);
             candidate.sort( (x , y)-> x.time==y.time? x.curString.compareTo(y.curString) : y.time-x.time);
             for(int i=0;i<Math.min(3 , candidate.size()) ; i++){
@@ -94,7 +95,8 @@ public class DesignSearchAutocompleteSystem642 {
             }
             cur=cur.children.get(c);
         }
-        cur.time=t;
+        cur.curString=s;
+        cur.time+=t;
     }
 
     private List<TrieNode> search(char c ){
@@ -109,18 +111,38 @@ public class DesignSearchAutocompleteSystem642 {
         return ans;
 
     }
+    private void getAllCandidate(TrieNode node , List<TrieNode> ans){
+        if(node.time>0){
+            ans.add(node);
+        }
+        for(TrieNode n:node.children.values()){
+            getAllCandidate(n , ans);
+        }
+    }
 
 
-//    private class Trie {
-//        TrieNode root = new TrieNode();
-//
-//    }
 
     private class TrieNode {
         int time = 0;
         String curString="";
         Map<Character, TrieNode> children = new HashMap<>();
     }
+
+//    ["AutocompleteSystem","input","input","input","input"]
+//            [[["i love you","island","iroman","i love leetcode"],[5,3,2,2]],["i"],[" "],["a"],["#"]]
+
+    static public void main(String[] args){
+        String[] sentences={"i love you","island","iroman","i love leetcode"};
+        int[] times={5,3,2,2};
+        DesignSearchAutocompleteSystem642 test=new DesignSearchAutocompleteSystem642(sentences , times);
+        List<String> ans=test.input('i');
+        ans=test.input(' ');
+        ans=test.input('a');
+        ans=test.input('#');
+
+
+    }
+
 
 
 }
