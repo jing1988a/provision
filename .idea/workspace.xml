@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ValidNumber65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/WordLadderII126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,13 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidNumber65.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidNumber65.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ValidNumber65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="180" column="13" lean-forward="true" selection-start-line="180" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+            <state relative-caret-position="254">
+              <caret line="195" column="1" lean-forward="true" selection-start-line="195" selection-start-column="1" selection-end-line="195" selection-end-column="1" />
               <folding>
                 <element signature="e#0#7106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadderII126.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/WordLadderII126.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="39" selection-start-line="39" selection-end-line="89" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1261#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java" />
         <option value="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" />
         <option value="$PROJECT_DIR$/java/src/OneEditDistance161.java" />
         <option value="$PROJECT_DIR$/java/src/MaximalSquare221.java" />
@@ -122,6 +134,7 @@
         <option value="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" />
         <option value="$PROJECT_DIR$/java/src/ValidNumber65.java" />
+        <option value="$PROJECT_DIR$/java/src/WordLadderII126.java" />
       </list>
     </option>
   </component>
@@ -326,7 +339,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.4316644" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.4316644" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
@@ -540,7 +553,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/ValidNumber65.java</url>
-          <line>191</line>
+          <line>192</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -549,7 +562,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/CornerRectangles750.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java" />
@@ -602,6 +614,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -626,6 +641,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -640,6 +658,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -788,10 +811,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ValidNumber65.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="180" column="13" lean-forward="true" selection-start-line="180" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+        <state relative-caret-position="254">
+          <caret line="195" column="1" lean-forward="true" selection-start-line="195" selection-start-column="1" selection-end-line="195" selection-end-column="1" />
           <folding>
             <element signature="e#0#7106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WordLadderII126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="39" selection-start-line="39" selection-end-line="89" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1261#0" expanded="true" />
           </folding>
         </state>
       </provider>
