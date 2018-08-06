@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ValidNumber65.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LongestSubstringwithAtMostTwoDistinctCharacters159.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestSubstringwithAtMostTwoDistinctCharacters159.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="e#0#441#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidNumber65.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ValidNumber65.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="180" column="13" lean-forward="true" selection-start-line="180" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#7106#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/WordBreakII140.java" />
         <option value="$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java" />
         <option value="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" />
         <option value="$PROJECT_DIR$/java/src/OneEditDistance161.java" />
@@ -110,13 +121,14 @@
         <option value="$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java" />
         <option value="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" />
+        <option value="$PROJECT_DIR$/java/src/ValidNumber65.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="528" />
+    <option name="x" value="519" />
     <option name="y" value="25" />
-    <option name="width" value="915" />
+    <option name="width" value="925" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -146,13 +158,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringwithAtMostTwoDistinctCharacters159">
+  <component name="RunManager" selected="Application.ValidNumber65">
     <configuration name="DesignSearchAutocompleteSystem642" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignSearchAutocompleteSystem642" />
       <module name="java" />
@@ -214,8 +219,8 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="WordLadder127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.WordLadder127" />
+    <configuration name="ValidNumber65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidNumber65" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -261,19 +266,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WordLadder127" />
       <item itemvalue="Application.SplitArrayLargestSum410" />
       <item itemvalue="Application.RobotRoomCleaner489" />
       <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
       <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
+      <item itemvalue="Application.ValidNumber65" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidNumber65" />
         <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
         <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
         <item itemvalue="Application.RobotRoomCleaner489" />
         <item itemvalue="Application.SplitArrayLargestSum410" />
-        <item itemvalue="Application.WordLadder127" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +305,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="25" width="915" height="836" extended-state="0" />
+    <frame x="519" y="25" width="925" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -311,17 +316,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32341" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32341" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25887743" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25821066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.4316644" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.4316644" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
@@ -533,12 +538,17 @@
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/ValidNumber65.java</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="34" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ContiguousArray525.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/CornerRectangles750.java" />
@@ -767,11 +777,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#0#441#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ValidNumber65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="180" column="13" lean-forward="true" selection-start-line="180" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#7106#0" expanded="true" />
           </folding>
         </state>
       </provider>
