@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/WordLadderII126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/TextJustification68.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,13 +42,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordLadderII126.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordLadderII126.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/WordLadderII126.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="39" selection-start-line="39" selection-end-line="89" selection-end-column="5" />
+            <state relative-caret-position="243">
+              <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
               <folding>
                 <element signature="e#0#1261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextJustification68.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/TextJustification68.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="90" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" />
         <option value="$PROJECT_DIR$/java/src/OneEditDistance161.java" />
         <option value="$PROJECT_DIR$/java/src/MaximalSquare221.java" />
         <option value="$PROJECT_DIR$/java/src/LowestCommonAncestorBinaryTree236.java" />
@@ -135,6 +146,7 @@
         <option value="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" />
         <option value="$PROJECT_DIR$/java/src/ValidNumber65.java" />
         <option value="$PROJECT_DIR$/java/src/WordLadderII126.java" />
+        <option value="$PROJECT_DIR$/java/src/TextJustification68.java" />
       </list>
     </option>
   </component>
@@ -142,7 +154,7 @@
     <option name="x" value="519" />
     <option name="y" value="25" />
     <option name="width" value="925" />
-    <option name="height" value="836" />
+    <option name="height" value="717" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -211,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidNumber65">
+  <component name="RunManager" selected="Application.TextJustification68">
     <configuration name="DesignSearchAutocompleteSystem642" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignSearchAutocompleteSystem642" />
       <module name="java" />
@@ -227,8 +239,8 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SplitArrayLargestSum410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitArrayLargestSum410" />
+    <configuration name="TextJustification68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextJustification68" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -279,19 +291,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SplitArrayLargestSum410" />
       <item itemvalue="Application.RobotRoomCleaner489" />
       <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
       <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
       <item itemvalue="Application.ValidNumber65" />
+      <item itemvalue="Application.TextJustification68" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextJustification68" />
         <item itemvalue="Application.ValidNumber65" />
         <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
         <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
         <item itemvalue="Application.RobotRoomCleaner489" />
-        <item itemvalue="Application.SplitArrayLargestSum410" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +351,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.4316644" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.4316644" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
@@ -557,12 +569,17 @@
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/TextJustification68.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="35" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/CornerRectangles750.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeString394.java" />
@@ -821,10 +838,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WordLadderII126.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="39" selection-start-line="39" selection-end-line="89" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
           <folding>
             <element signature="e#0#1261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/TextJustification68.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="90" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -846,7 +873,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
