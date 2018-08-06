@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/LFU460.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/LRUcache146.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/LRUcache146.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,12 +59,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LRUcache146.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LRUcache146.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LRUcache146.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="116" column="25" lean-forward="true" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
+            <state relative-caret-position="70">
+              <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
               <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LFU460.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/LFU460.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#1259#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -101,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MaximalSquare221.java" />
         <option value="$PROJECT_DIR$/java/src/LowestCommonAncestorBinaryTree236.java" />
         <option value="$PROJECT_DIR$/java/src/MinimumSwapsToMakeSequencesIncreasing801.java" />
         <option value="$PROJECT_DIR$/java/src/FriendsOfAppropriateAges825.java" />
@@ -152,6 +164,7 @@
         <option value="$PROJECT_DIR$/java/src/WordLadderII126.java" />
         <option value="$PROJECT_DIR$/java/src/TextJustification68.java" />
         <option value="$PROJECT_DIR$/java/src/LRUcache146.java" />
+        <option value="$PROJECT_DIR$/java/src/LFU460.java" />
       </list>
     </option>
   </component>
@@ -335,7 +348,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="561" y="53" width="854" height="790" extended-state="0" />
+    <frame x="561" y="54" width="854" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -346,17 +359,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32467532" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32467532" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25528318" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25492612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.43145743" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.43145743" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -572,7 +585,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeString394.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeWays91.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/FindTheCelebrity277.java" />
@@ -831,9 +843,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/LRUcache146.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="116" column="25" lean-forward="true" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
+        <state relative-caret-position="70">
+          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
           <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/LFU460.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#1259#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
