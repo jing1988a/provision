@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,53 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaximumSum3NonOverlappingSubarrays689.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java">
+      <file leaf-file-name="LongestSubstringwithAtMostTwoDistinctCharacters159.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
+                <element signature="e#0#441#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignSearchAutocompleteSystem642.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightProbabilityChessboard688.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UTF8Validation393.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UTF8Validation393.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/UTF8Validation393.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/easy/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="93">
+              <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -89,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/WordBreak139.java" />
         <option value="$PROJECT_DIR$/java/src/WordBreakII140.java" />
         <option value="$PROJECT_DIR$/java/src/SearchRotatedSortedArray33.java" />
         <option value="$PROJECT_DIR$/java/src/NumberLongestIncreasingSubsequence673.java" />
@@ -139,13 +108,14 @@
         <option value="$PROJECT_DIR$/java/src/medium/NextClosestTime681.java" />
         <option value="$PROJECT_DIR$/java/src/medium/StrobogrammaticNumberII247.java" />
         <option value="$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java" />
+        <option value="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="528" />
-    <option name="y" value="24" />
+    <option name="y" value="25" />
     <option name="width" value="915" />
     <option name="height" value="836" />
   </component>
@@ -192,6 +162,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/xjin/Documents/GitHub/leetcode_fb/java/src/medium/UTF8Validation393.java" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -222,9 +193,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DesignSearchAutocompleteSystem642">
+  <component name="RunManager" selected="Application.LongestSubstringwithAtMostTwoDistinctCharacters159">
     <configuration name="DesignSearchAutocompleteSystem642" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignSearchAutocompleteSystem642" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="LongestSubstringwithAtMostTwoDistinctCharacters159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringwithAtMostTwoDistinctCharacters159" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -235,11 +211,6 @@
     </configuration>
     <configuration name="SplitArrayLargestSum410" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SplitArrayLargestSum410" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ThreeSum15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.ThreeSum15" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -290,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThreeSum15" />
       <item itemvalue="Application.WordLadder127" />
       <item itemvalue="Application.SplitArrayLargestSum410" />
       <item itemvalue="Application.RobotRoomCleaner489" />
       <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
+      <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
         <item itemvalue="Application.DesignSearchAutocompleteSystem642" />
         <item itemvalue="Application.RobotRoomCleaner489" />
         <item itemvalue="Application.SplitArrayLargestSum410" />
         <item itemvalue="Application.WordLadder127" />
-        <item itemvalue="Application.ThreeSum15" />
       </list>
     </recent_temporary>
   </component>
@@ -329,22 +300,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="23" width="915" height="836" extended-state="0" />
+    <frame x="528" y="25" width="915" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32746956" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32561505" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32341" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25894135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25887743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -375,7 +347,6 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32746956" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3514957" />
     </layout>
@@ -556,12 +527,17 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CombinationSumIV377.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ContiguousArray525.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java" />
@@ -585,16 +561,6 @@
     <entry file="file://$PROJECT_DIR$/java/src/medium/KthLargestElementinArray215.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -664,16 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,10 +738,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/UTF8Validation393.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        <state relative-caret-position="93">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#441#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -806,7 +793,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
