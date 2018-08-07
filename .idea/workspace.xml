@@ -129,10 +129,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="501" />
-    <option name="y" value="52" />
-    <option name="width" value="922" />
-    <option name="height" value="797" />
+    <option name="x" value="1192" />
+    <option name="y" value="307" />
+    <option name="width" value="1697" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -872,7 +872,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
