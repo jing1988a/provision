@@ -26,6 +26,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LFU460 {
+
+
+//    这题 还是 doubleLinkedList +HashMap O(1) O(1)...
+//    下面这做法O(1)  O(N)   傻逼做法别写了 有空写上面那个吧。。
+
+
     int capacity;
     Map<Integer , Integer> keyValue;
     Map<Integer , Integer> keyFrequent;
