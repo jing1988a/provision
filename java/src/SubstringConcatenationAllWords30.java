@@ -23,7 +23,7 @@
 
 import java.util.*;
 
-public class SubstringConcatenationAllWords44 {
+public class SubstringConcatenationAllWords30 {
     public List<Integer> findSubstring(String s, String[] words) {
         int l=s.length();
         int n=words.length;
@@ -82,7 +82,7 @@ public class SubstringConcatenationAllWords44 {
     static public void main(String[]  args){
         String s="aaa";
         String[] words=  {"aa","aa"};
-        SubstringConcatenationAllWords44 test=new SubstringConcatenationAllWords44();
+        SubstringConcatenationAllWords30 test=new SubstringConcatenationAllWords30();
         List<Integer> ans =test.findSubstring(s  , words);
         System.out.println(ans);
     }
