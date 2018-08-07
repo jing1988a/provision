@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ReversePairs493.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/WildcardMatching44.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReversePairs493.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReversePairs493.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ReversePairs493.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+            <state relative-caret-position="331">
+              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
               <folding>
                 <element signature="e#0#583#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WildcardMatching44.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/WildcardMatching44.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="50" selection-start-line="50" selection-end-line="75" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1395#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MinimumSwapsToMakeSequencesIncreasing801.java" />
         <option value="$PROJECT_DIR$/java/src/FriendsOfAppropriateAges825.java" />
         <option value="$PROJECT_DIR$/java/src/WordSearch79.java" />
         <option value="$PROJECT_DIR$/java/src/MultiplyStrings43.java" />
@@ -102,6 +112,7 @@
         <option value="$PROJECT_DIR$/java/src/LRUcache146.java" />
         <option value="$PROJECT_DIR$/java/src/LFU460.java" />
         <option value="$PROJECT_DIR$/java/src/ReversePairs493.java" />
+        <option value="$PROJECT_DIR$/java/src/WildcardMatching44.java" />
       </list>
     </option>
   </component>
@@ -300,7 +311,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25486183" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25417662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -522,7 +533,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/DecodeWays91.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/FindTheCelebrity277.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/FlattenNestedLIst341.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/FriendsOfAppropriateAges825.java" />
@@ -799,11 +809,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ReversePairs493.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        <state relative-caret-position="331">
+          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
           <folding>
             <element signature="e#0#583#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/WildcardMatching44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="50" selection-start-line="50" selection-end-line="75" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1395#0" expanded="true" />
           </folding>
         </state>
       </provider>
