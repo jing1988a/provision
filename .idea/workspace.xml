@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/WordSearchII212.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WordSearchII212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/AlienDictionary269.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,13 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordSearchII212.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordSearchII212.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/WordSearchII212.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
+            <state relative-caret-position="317">
+              <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
               <folding>
                 <element signature="e#0#623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlienDictionary269.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/AlienDictionary269.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="59" selection-start-line="59" selection-end-line="120" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1245#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/MultiplyStrings43.java" />
         <option value="$PROJECT_DIR$/java/src/SimplifyPath71.java" />
         <option value="$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java" />
         <option value="$PROJECT_DIR$/java/src/PowXN50.java" />
@@ -139,14 +150,15 @@
         <option value="$PROJECT_DIR$/java/src/SubstringConcatenationAllWords44.java" />
         <option value="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/WordSearchII212.java" />
+        <option value="$PROJECT_DIR$/java/src/AlienDictionary269.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="544" />
-    <option name="y" value="23" />
-    <option name="width" value="889" />
-    <option name="height" value="820" />
+    <option name="x" value="552" />
+    <option name="y" value="35" />
+    <option name="width" value="881" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,7 +227,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordSearchII212">
+  <component name="RunManager" selected="Application.AlienDictionary269">
+    <configuration name="AlienDictionary269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlienDictionary269" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="LRUcache146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LRUcache146" />
       <module name="java" />
@@ -228,11 +245,6 @@
     </configuration>
     <configuration name="SubstringConcatenationAllWords44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SubstringConcatenationAllWords44" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TextJustification68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextJustification68" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -284,18 +296,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
-      <item itemvalue="Application.TextJustification68" />
       <item itemvalue="Application.LRUcache146" />
       <item itemvalue="Application.SubstringConcatenationAllWords44" />
       <item itemvalue="Application.WordSearchII212" />
+      <item itemvalue="Application.AlienDictionary269" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlienDictionary269" />
         <item itemvalue="Application.WordSearchII212" />
         <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
         <item itemvalue="Application.SubstringConcatenationAllWords44" />
         <item itemvalue="Application.LRUcache146" />
-        <item itemvalue="Application.TextJustification68" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +334,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="544" y="23" width="889" height="820" extended-state="0" />
+    <frame x="552" y="35" width="881" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -333,17 +345,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32365146" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32348806" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25029516" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24910608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.43015215" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.4289733" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
@@ -579,12 +591,23 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/AlienDictionary269.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/AlienDictionary269.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/GroupAnagrams49.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/HIndex274.java" />
@@ -873,10 +896,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WordSearchII212.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
+        <state relative-caret-position="317">
+          <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
           <folding>
             <element signature="e#0#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/AlienDictionary269.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="59" selection-start-line="59" selection-end-line="120" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1245#0" expanded="true" />
           </folding>
         </state>
       </provider>
