@@ -57,8 +57,10 @@ public class LongestSubstringwithAtMostTwoDistinctCharacters159 {
 
     static public void main(String[] args){
         String s="cdaba";
-        LongestSubstringwithAtMostTwoDistinctCharacters159 test=new LongestSubstringwithAtMostTwoDistinctCharacters159();
-        int ans=test.lengthOfLongestSubstringTwoDistinct(s);
-        System.out.println(ans);
+        System.out.println(s.substring(4));
+        System.out.println(s.substring(5).equals(""));
+//        LongestSubstringwithAtMostTwoDistinctCharacters159 test=new LongestSubstringwithAtMostTwoDistinctCharacters159();
+//        int ans=test.lengthOfLongestSubstringTwoDistinct(s);
+//        System.out.println(ans);
     }
 }
