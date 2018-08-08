@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/WordSearchII212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/WordSearchII212.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/WordSearchII212.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +58,8 @@
       <file leaf-file-name="WordSearchII212.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/WordSearchII212.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="75" column="54" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="75" selection-end-column="54" />
+            <state relative-caret-position="395">
+              <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
               <folding>
                 <element signature="e#0#623#0" expanded="true" />
               </folding>
@@ -145,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1192" />
-    <option name="y" value="307" />
-    <option name="width" value="1697" />
-    <option name="height" value="798" />
+    <option name="x" value="544" />
+    <option name="y" value="23" />
+    <option name="width" value="889" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -324,7 +322,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="546" y="23" width="889" height="820" extended-state="0" />
+    <frame x="544" y="23" width="889" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -334,12 +333,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32365146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32365146" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25029516" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25029516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -640,6 +639,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1144">
           <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -871,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/WordSearchII212.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="75" column="54" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="75" selection-end-column="54" />
+        <state relative-caret-position="395">
+          <caret line="94" column="19" lean-forward="true" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
           <folding>
             <element signature="e#0#623#0" expanded="true" />
           </folding>
