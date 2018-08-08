@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/AlienDictionary269.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/PalindromePairs336.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,13 +67,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlienDictionary269.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlienDictionary269.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/AlienDictionary269.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="59" selection-start-line="59" selection-end-line="120" selection-end-column="5" />
+            <state relative-caret-position="252">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
                 <element signature="e#0#1245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePairs336.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/PalindromePairs336.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="e#0#654#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/SimplifyPath71.java" />
         <option value="$PROJECT_DIR$/java/src/AddSearchWordDatastructureDesign211.java" />
         <option value="$PROJECT_DIR$/java/src/PowXN50.java" />
         <option value="$PROJECT_DIR$/java/src/CloneGraph133.java" />
@@ -151,12 +163,13 @@
         <option value="$PROJECT_DIR$/java/src/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/WordSearchII212.java" />
         <option value="$PROJECT_DIR$/java/src/AlienDictionary269.java" />
+        <option value="$PROJECT_DIR$/java/src/PalindromePairs336.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="552" />
-    <option name="y" value="35" />
+    <option name="y" value="36" />
     <option name="width" value="881" />
     <option name="height" value="808" />
   </component>
@@ -227,19 +240,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlienDictionary269">
+  <component name="RunManager" selected="Application.PalindromePairs336">
     <configuration name="AlienDictionary269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlienDictionary269" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LRUcache146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRUcache146" />
+    <configuration name="LongestSubstringwithAtMostTwoDistinctCharacters159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringwithAtMostTwoDistinctCharacters159" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LongestSubstringwithAtMostTwoDistinctCharacters159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringwithAtMostTwoDistinctCharacters159" />
+    <configuration name="PalindromePairs336" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromePairs336" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -296,18 +309,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
-      <item itemvalue="Application.LRUcache146" />
       <item itemvalue="Application.SubstringConcatenationAllWords44" />
       <item itemvalue="Application.WordSearchII212" />
       <item itemvalue="Application.AlienDictionary269" />
+      <item itemvalue="Application.PalindromePairs336" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromePairs336" />
         <item itemvalue="Application.AlienDictionary269" />
         <item itemvalue="Application.WordSearchII212" />
         <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
         <item itemvalue="Application.SubstringConcatenationAllWords44" />
-        <item itemvalue="Application.LRUcache146" />
       </list>
     </recent_temporary>
   </component>
@@ -345,12 +358,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32348806" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32348806" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24910608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24910608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -603,12 +616,17 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/PalindromePairs336.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/GroupAnagrams49.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/HIndex274.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/HIndexII275.java" />
@@ -906,10 +924,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/AlienDictionary269.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="59" selection-start-line="59" selection-end-line="120" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
           <folding>
             <element signature="e#0#1245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/PalindromePairs336.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#654#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
