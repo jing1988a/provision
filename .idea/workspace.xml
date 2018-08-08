@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryTreeMaximumPathSum124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,13 +85,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeMaximumPathSum124.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeMaximumPathSum124.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/BinaryTreeMaximumPathSum124.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="29" selection-start-line="29" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="428">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#0#641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumWindowSubstring76.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+              <folding>
+                <element signature="e#0#511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/PowXN50.java" />
         <option value="$PROJECT_DIR$/java/src/CloneGraph133.java" />
         <option value="$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java" />
         <option value="$PROJECT_DIR$/java/src/ContinuousSubarraySum523.java" />
@@ -179,12 +189,13 @@
         <option value="$PROJECT_DIR$/java/src/AlienDictionary269.java" />
         <option value="$PROJECT_DIR$/java/src/PalindromePairs336.java" />
         <option value="$PROJECT_DIR$/java/src/BinaryTreeMaximumPathSum124.java" />
+        <option value="$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="552" />
-    <option name="y" value="30" />
+    <option name="y" value="32" />
     <option name="width" value="881" />
     <option name="height" value="814" />
   </component>
@@ -214,21 +225,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphValidTree261.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePairs336">
+  <component name="RunManager" selected="Application.MinimumWindowSubstring76">
     <configuration name="AlienDictionary269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlienDictionary269" />
       <module name="java" />
@@ -281,13 +277,13 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PalindromePairs336" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromePairs336" />
+    <configuration name="MinimumWindowSubstring76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumWindowSubstring76" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SubstringConcatenationAllWords44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubstringConcatenationAllWords44" />
+    <configuration name="PalindromePairs336" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromePairs336" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -339,18 +335,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
-      <item itemvalue="Application.SubstringConcatenationAllWords44" />
       <item itemvalue="Application.WordSearchII212" />
       <item itemvalue="Application.AlienDictionary269" />
       <item itemvalue="Application.PalindromePairs336" />
+      <item itemvalue="Application.MinimumWindowSubstring76" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumWindowSubstring76" />
         <item itemvalue="Application.PalindromePairs336" />
         <item itemvalue="Application.AlienDictionary269" />
         <item itemvalue="Application.WordSearchII212" />
         <item itemvalue="Application.LongestSubstringwithAtMostTwoDistinctCharacters159" />
-        <item itemvalue="Application.SubstringConcatenationAllWords44" />
       </list>
     </recent_temporary>
   </component>
@@ -377,17 +373,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="30" width="881" height="814" extended-state="0" />
+    <frame x="552" y="32" width="881" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" visible="true" weight="0.32635984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19492657" side_tool="true" weight="0.49046794" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32348806" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32217574" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
@@ -397,7 +394,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.43037975" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.42956764" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -406,7 +403,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.3264177" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -633,12 +629,29 @@
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="44" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ImplementTrie208.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/IncreasingTripletSubsequence334.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/InorderSuccessorBST285.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/InsertDeleteGetRandom380.java" />
@@ -954,10 +967,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/BinaryTreeMaximumPathSum124.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="29" selection-start-line="29" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="428">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#0#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
