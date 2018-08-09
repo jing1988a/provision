@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/NQueens51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +26,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecoverBinarySearchTree99.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RecoverBinarySearchTree99.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="95" column="5" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="249">
+              <caret line="81" column="15" lean-forward="true" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
               <folding>
                 <element signature="e#0#787#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueens51.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/NQueens51.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="97" column="4" lean-forward="true" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#823#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -60,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/DecodeWays91.java" />
         <option value="$PROJECT_DIR$/java/src/MaximumSum3NonOverlappingSubarrays689.java" />
         <option value="$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java" />
         <option value="$PROJECT_DIR$/java/src/PaintHouseII265.java" />
@@ -111,13 +123,20 @@
         <option value="$PROJECT_DIR$/java/src/InsertDeleteGetRandomO1Duplicatesallowed381.java" />
         <option value="$PROJECT_DIR$/java/src/FindMedianFromDataStream295.java" />
         <option value="$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java" />
+        <option value="$PROJECT_DIR$/java/src/NQueens51.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="616" />
+    <option name="x" value="696" />
     <option name="y" value="37" />
-    <option name="width" value="805" />
+    <option name="width" value="725" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -147,13 +166,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,7 +313,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="37" width="805" height="813" extended-state="0" />
+    <frame x="696" y="37" width="725" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -310,7 +322,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32179227" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
@@ -318,7 +330,7 @@
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.395806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.31160897" />
@@ -573,14 +585,11 @@
       <option name="time" value="47" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/RobotRoomCleaner489.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -922,10 +931,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="95" column="5" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="95" selection-end-column="5" />
+        <state relative-caret-position="249">
+          <caret line="81" column="15" lean-forward="true" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
           <folding>
             <element signature="e#0#787#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/NQueens51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="97" column="4" lean-forward="true" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#823#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
