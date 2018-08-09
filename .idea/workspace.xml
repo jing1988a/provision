@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BestTimetoBuyandSellStockIII123.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,16 +26,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadNCharactersGivenRead4IICallMultipleTimes158.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadNCharactersGivenRead4IICallMultipleTimes158.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="34" selection-start-line="34" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="351">
+              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding>
                 <element signature="e#0#803#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="e#1377#1378#0" expanded="true" />
                 <element signature="e#1402#1403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestTimetoBuyandSellStockIII123.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/BestTimetoBuyandSellStockIII123.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#1156#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/ContinuousSubarraySum523.java" />
         <option value="$PROJECT_DIR$/java/src/ThreeSum15.java" />
         <option value="$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/java/src/CourseScheduleII210.java" />
@@ -123,13 +133,14 @@
         <option value="$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java" />
         <option value="$PROJECT_DIR$/java/src/LargestRectangleHistogram84.java" />
         <option value="$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java" />
+        <option value="$PROJECT_DIR$/java/src/BestTimetoBuyandSellStockIII123.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="551" />
+    <option name="x" value="631" />
     <option name="y" value="37" />
-    <option name="width" value="870" />
+    <option name="width" value="790" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -306,7 +317,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="551" y="37" width="870" height="813" extended-state="0" />
+    <frame x="631" y="37" width="790" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -579,7 +590,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java" />
     <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -904,13 +914,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="34" selection-start-line="34" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="351">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
           <folding>
             <element signature="e#0#803#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#1377#1378#0" expanded="true" />
             <element signature="e#1402#1403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/BestTimetoBuyandSellStockIII123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#1156#0" expanded="true" />
           </folding>
         </state>
       </provider>
