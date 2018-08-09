@@ -55,6 +55,7 @@ public class NQueens51 {
     private void dfs(int n , int level , ArrayList<Integer> candidate , List<List<String>> ans ){
         if(level==n){
             ans.add(formated(candidate , n));
+            return ;
         }
         for(int i=0 ; i<n ;i++){
             if(isValid(candidate , level , i)){
@@ -88,12 +89,16 @@ public class NQueens51 {
             StringBuilder temp=new StringBuilder();
             for(int j=0 ; j<n ; j++){
                 temp.append('.');
-                temp.setCharAt(i , 'Q');
+
             }
+            temp.setCharAt(i , 'Q');
             ans.add(temp.toString());
         }
         return ans;
     }
 
-    
+    static public void main(String[] args){
+        NQueens51 test=new NQueens51();
+        System.out.println(test.solveNQueens(4));
+    }
 }
