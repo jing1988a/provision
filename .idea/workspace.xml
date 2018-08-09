@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +18,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestRectangleHistogram84.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargestRectangleHistogram84.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/LargestRectangleHistogram84.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+            <state relative-caret-position="354">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadNCharactersGivenRead4IICallMultipleTimes158.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="34" selection-start-line="34" selection-end-line="64" selection-end-column="5" />
               <folding>
+                <element signature="e#0#803#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+                <element signature="e#1377#1378#0" expanded="true" />
+                <element signature="e#1402#1403#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,7 +45,7 @@
       <file leaf-file-name="MinimumWindowSubstring76.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
+            <state relative-caret-position="2730">
               <caret line="82" selection-start-line="82" selection-start-column="2" selection-end-line="84" selection-end-column="34" />
             </state>
           </provider>
@@ -58,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/ValidateBinarySearchTree98.java" />
         <option value="$PROJECT_DIR$/java/src/ContinuousSubarraySum523.java" />
         <option value="$PROJECT_DIR$/java/src/ThreeSum15.java" />
         <option value="$PROJECT_DIR$/java/src/ConvertBinarySearchTreeSortedDoublyLinkedList.java" />
@@ -109,13 +122,15 @@
         <option value="$PROJECT_DIR$/java/src/BinaryTreeMaximumPathSum124.java" />
         <option value="$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java" />
         <option value="$PROJECT_DIR$/java/src/LargestRectangleHistogram84.java" />
+        <option value="$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1337" />
-    <option name="width" value="1712" />
-    <option name="height" value="1398" />
+    <option name="x" value="551" />
+    <option name="y" value="37" />
+    <option name="width" value="870" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,22 +140,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -149,14 +165,13 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/xjin/Documents/GitHub/leetcode_fb/java/src/medium/UTF8Validation393.java" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -291,12 +306,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1070" y="0" width="1369" height="1118" extended-state="0" />
+    <frame x="551" y="37" width="870" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32586557" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -307,12 +321,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2582124" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.397343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.31160897" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.31160897" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -321,6 +335,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.32586557" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +579,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/KthLargestElementinArray215.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/LargestPlusSign764.java" />
     <entry file="file://$PROJECT_DIR$/java/src/medium/LetterCombinationsPhoneNumber17.java" />
     <entry file="file://$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java">
@@ -876,17 +890,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/MinimumWindowSubstring76.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="2730">
           <caret line="82" selection-start-line="82" selection-start-column="2" selection-end-line="84" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/LargestRectangleHistogram84.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        <state relative-caret-position="354">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ReadNCharactersGivenRead4IICallMultipleTimes158.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="34" selection-start-line="34" selection-end-line="64" selection-end-column="5" />
           <folding>
+            <element signature="e#0#803#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -931,7 +955,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -956,7 +980,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
