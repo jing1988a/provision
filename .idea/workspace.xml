@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/SudokuSolver37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/SudokuSolver37.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/SudokuSolver37.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,13 +63,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SudokuSolver37.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SudokuSolver37.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/SudokuSolver37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="103" column="22" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="22" />
+            <state relative-caret-position="230">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
               <folding>
                 <element signature="e#0#1097#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlidingWindowMaximum239.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#969#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -113,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/PaintHouseII265.java" />
         <option value="$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java" />
         <option value="$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java" />
@@ -164,6 +177,7 @@
         <option value="$PROJECT_DIR$/java/src/NQueens51.java" />
         <option value="$PROJECT_DIR$/java/src/FrogJump403.java" />
         <option value="$PROJECT_DIR$/java/src/SudokuSolver37.java" />
+        <option value="$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java" />
       </list>
     </option>
   </component>
@@ -246,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SudokuSolver37">
+  <component name="RunManager" selected="Application.SlidingWindowMaximum239">
     <configuration name="FrogJump403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrogJump403" />
       <module name="java" />
@@ -257,13 +271,13 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MinimumWindowSubstring76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumWindowSubstring76" />
+    <configuration name="NQueens51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NQueens51" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NQueens51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueens51" />
+    <configuration name="SlidingWindowMaximum239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindowMaximum239" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -314,19 +328,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MinimumWindowSubstring76" />
       <item itemvalue="Application.LargestRectangleHistogram84" />
       <item itemvalue="Application.NQueens51" />
       <item itemvalue="Application.FrogJump403" />
       <item itemvalue="Application.SudokuSolver37" />
+      <item itemvalue="Application.SlidingWindowMaximum239" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindowMaximum239" />
         <item itemvalue="Application.SudokuSolver37" />
         <item itemvalue="Application.FrogJump403" />
         <item itemvalue="Application.NQueens51" />
         <item itemvalue="Application.LargestRectangleHistogram84" />
-        <item itemvalue="Application.MinimumWindowSubstring76" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +378,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32162163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32162163" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
@@ -374,7 +388,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.3108108" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.3108108" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -641,18 +655,24 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/SudokuSolver37.java</url>
-          <line>119</line>
+          <line>116</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/SudokuSolver37.java</url>
-          <line>77</line>
+          <line>74</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="53" />
+      <option name="time" value="54" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -660,13 +680,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/MovingAveragefromDataStream346.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/ClosestBinarySearchTreeValue270.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1006,10 +1019,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/SudokuSolver37.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="103" column="22" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="22" />
+        <state relative-caret-position="230">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
           <folding>
             <element signature="e#0#1097#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#969#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
