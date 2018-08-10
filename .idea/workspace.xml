@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/FrogJump403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/SudokuSolver37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,13 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrogJump403.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FrogJump403.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/FrogJump403.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="21">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
-                <element signature="e#0#1612#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuSolver37.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/SudokuSolver37.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="103" column="22" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#1097#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -85,7 +97,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>toarray</find>
+      <find>[</find>
+      <find>]</find>
+      <find>&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>'</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/SplitArrayLargestSum410.java" />
         <option value="$PROJECT_DIR$/java/src/PaintHouseII265.java" />
         <option value="$PROJECT_DIR$/java/src/LongestConsecutiveSequence128.java" />
         <option value="$PROJECT_DIR$/java/src/RemoveInvalidParentheses301.java" />
@@ -144,6 +163,7 @@
         <option value="$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java" />
         <option value="$PROJECT_DIR$/java/src/NQueens51.java" />
         <option value="$PROJECT_DIR$/java/src/FrogJump403.java" />
+        <option value="$PROJECT_DIR$/java/src/SudokuSolver37.java" />
       </list>
     </option>
   </component>
@@ -154,9 +174,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="194" />
+    <option name="x" value="492" />
     <option name="y" value="23" />
-    <option name="width" value="1246" />
+    <option name="width" value="948" />
     <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -226,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FrogJump403">
+  <component name="RunManager" selected="Application.SudokuSolver37">
     <configuration name="FrogJump403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrogJump403" />
       <module name="java" />
@@ -247,8 +267,8 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PalindromePairs336" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromePairs336" />
+    <configuration name="SudokuSolver37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SudokuSolver37" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -294,19 +314,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromePairs336" />
       <item itemvalue="Application.MinimumWindowSubstring76" />
       <item itemvalue="Application.LargestRectangleHistogram84" />
       <item itemvalue="Application.NQueens51" />
       <item itemvalue="Application.FrogJump403" />
+      <item itemvalue="Application.SudokuSolver37" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SudokuSolver37" />
         <item itemvalue="Application.FrogJump403" />
         <item itemvalue="Application.NQueens51" />
         <item itemvalue="Application.LargestRectangleHistogram84" />
         <item itemvalue="Application.MinimumWindowSubstring76" />
-        <item itemvalue="Application.PalindromePairs336" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +353,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="23" width="1246" height="837" extended-state="0" />
+    <frame x="492" y="23" width="948" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -344,17 +364,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32162163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32162163" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31312293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.290287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.3108108" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.3108108" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -619,8 +639,20 @@
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/SudokuSolver37.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/SudokuSolver37.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="50" />
+      <option name="time" value="53" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -628,13 +660,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/ExpressionAddOperators282.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/MovingAveragefromDataStream346.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -971,10 +996,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/FrogJump403.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="21">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
-            <element signature="e#0#1612#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/SudokuSolver37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#1097#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
