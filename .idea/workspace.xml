@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/TrappingRainWater42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindMedianFromDataStream295.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/FindMedianFromDataStream295.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RecoverBinarySearchTree99.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,13 +79,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TrappingRainWater42.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TrappingRainWater42.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/TrappingRainWater42.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="335">
               <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="e#0#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueensII52.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/NQueensII52.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#618#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberofIslandsII305.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1534#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/SerializeandDeserializeBinaryTree297.java" />
-        <option value="$PROJECT_DIR$/java/src/RobotRoomCleaner489.java" />
         <option value="$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java" />
         <option value="$PROJECT_DIR$/java/src/ExpressionAddOperators282.java" />
         <option value="$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java" />
@@ -202,6 +216,8 @@
         <option value="$PROJECT_DIR$/java/src/SlidingWindowMaximum239.java" />
         <option value="$PROJECT_DIR$/java/src/ShortestDistancefromAllBuildings317.java" />
         <option value="$PROJECT_DIR$/java/src/TrappingRainWater42.java" />
+        <option value="$PROJECT_DIR$/java/src/NQueensII52.java" />
+        <option value="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" />
       </list>
     </option>
   </component>
@@ -284,14 +300,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestDistancefromAllBuildings317">
+  <component name="RunManager" selected="Application.NumberofIslandsII305">
     <configuration name="FrogJump403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrogJump403" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NQueens51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueens51" />
+    <configuration name="NumberofIslandsII305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberofIslandsII305" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -352,19 +368,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.NQueens51" />
       <item itemvalue="Application.FrogJump403" />
       <item itemvalue="Application.SudokuSolver37" />
       <item itemvalue="Application.SlidingWindowMaximum239" />
       <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
+      <item itemvalue="Application.NumberofIslandsII305" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberofIslandsII305" />
         <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
         <item itemvalue="Application.SlidingWindowMaximum239" />
         <item itemvalue="Application.SudokuSolver37" />
         <item itemvalue="Application.FrogJump403" />
-        <item itemvalue="Application.NQueens51" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +408,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="493" y="24" width="948" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -707,8 +722,20 @@
           <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="59" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -716,20 +743,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/CustomSortString791.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/WiggleSort280.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1078,6 +1091,27 @@
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="e#0#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/NQueensII52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#618#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1534#0" expanded="true" />
           </folding>
         </state>
       </provider>
