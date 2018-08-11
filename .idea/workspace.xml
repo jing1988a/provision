@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/StickersSpellWord691.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/StickersSpellWord691.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/StickersSpellWord691.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,8 +106,8 @@
       <file leaf-file-name="StickersSpellWord691.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/StickersSpellWord691.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+            <state relative-caret-position="346">
+              <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
               <folding>
                 <element signature="e#0#2129#0" expanded="true" />
               </folding>
@@ -230,7 +228,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="493" />
-    <option name="y" value="24" />
+    <option name="y" value="23" />
     <option name="width" value="948" />
     <option name="height" value="837" />
   </component>
@@ -419,7 +417,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32162163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32162163" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
@@ -429,7 +427,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.3108108" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.3108108" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -738,7 +736,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/StickersSpellWord691.java</url>
-          <line>124</line>
+          <line>142</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
@@ -1125,8 +1123,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/StickersSpellWord691.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        <state relative-caret-position="346">
+          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
           <folding>
             <element signature="e#0#2129#0" expanded="true" />
           </folding>

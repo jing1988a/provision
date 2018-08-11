@@ -63,9 +63,9 @@ public class StickersSpellWord691 {
         for(String s:stickers){
             stickersCharCount.add(getCharCount(s));
         }
-//        for(Map<Character , Integer> sCount :stickersCharCount){
-//            removeUselessChar(sCount , tCharCount);
-//        }
+        for(Map<Character , Integer> sCount :stickersCharCount){
+            removeUselessChar(sCount , tCharCount);
+        }
         List<String> q=new ArrayList();
         Set<String> visited=new HashSet<>();
         visited.add(target);
@@ -119,11 +119,30 @@ public class StickersSpellWord691 {
         }
         return sCount;
     }
+
+    private void removeUselessChar(Map<Character , Integer> sCount , Map<Character , Integer> tCount){
+        Set<Character> toRemove=new HashSet();
+        for(Character c: sCount.keySet()){
+            if(!tCount.containsKey(c)){
+                toRemove.add(c);
+            }else{
+                sCount.put(c , Math.min(sCount.get(c) , tCount.get(c)));
+            }
+        }
+        for(Character c:toRemove){
+            sCount.remove(c);
+        }
+
+    }
+
+
     static public void main(String[] arts){
         StickersSpellWord691 test=new StickersSpellWord691();
         String[] stickers={"with","example","science"};
         String t="thehat";
         System.out.println(test.minStickers(stickers , t));
     }
+
+
 
 }
