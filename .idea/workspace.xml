@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/StickersSpellWord691.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RecoverBinarySearchTree99.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/RecoverBinarySearchTree99.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NQueens51.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/NQueens51.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,13 +93,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberofIslandsII305.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberofIslandsII305.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+            <state relative-caret-position="320">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#0#1534#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StickersSpellWord691.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/StickersSpellWord691.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#2129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/ReverseNodeskGroup25.java" />
         <option value="$PROJECT_DIR$/java/src/ExpressionAddOperators282.java" />
         <option value="$PROJECT_DIR$/java/src/DesignSearchAutocompleteSystem642.java" />
         <option value="$PROJECT_DIR$/java/src/easy/ClosestBinarySearchTreeValue270.java" />
@@ -218,6 +218,7 @@
         <option value="$PROJECT_DIR$/java/src/TrappingRainWater42.java" />
         <option value="$PROJECT_DIR$/java/src/NQueensII52.java" />
         <option value="$PROJECT_DIR$/java/src/NumberofIslandsII305.java" />
+        <option value="$PROJECT_DIR$/java/src/StickersSpellWord691.java" />
       </list>
     </option>
   </component>
@@ -300,12 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberofIslandsII305">
-    <configuration name="FrogJump403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrogJump403" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.StickersSpellWord691">
     <configuration name="NumberofIslandsII305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberofIslandsII305" />
       <module name="java" />
@@ -318,6 +314,11 @@
     </configuration>
     <configuration name="SlidingWindowMaximum239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SlidingWindowMaximum239" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="StickersSpellWord691" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StickersSpellWord691" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -368,19 +369,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FrogJump403" />
       <item itemvalue="Application.SudokuSolver37" />
       <item itemvalue="Application.SlidingWindowMaximum239" />
       <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
       <item itemvalue="Application.NumberofIslandsII305" />
+      <item itemvalue="Application.StickersSpellWord691" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StickersSpellWord691" />
         <item itemvalue="Application.NumberofIslandsII305" />
         <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
         <item itemvalue="Application.SlidingWindowMaximum239" />
         <item itemvalue="Application.SudokuSolver37" />
-        <item itemvalue="Application.FrogJump403" />
       </list>
     </recent_temporary>
   </component>
@@ -408,6 +409,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="493" y="24" width="948" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -417,17 +419,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32162163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32162163" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.290287" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.290287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.3108108" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.3108108" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -734,8 +736,20 @@
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/StickersSpellWord691.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/StickersSpellWord691.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="59" />
+      <option name="time" value="61" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -743,13 +757,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/WiggleSort280.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -1108,10 +1115,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/NumberofIslandsII305.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        <state relative-caret-position="320">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
           <folding>
             <element signature="e#0#1534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/StickersSpellWord691.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#2129#0" expanded="true" />
           </folding>
         </state>
       </provider>
