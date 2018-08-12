@@ -32,4 +32,11 @@ public class MoveZeros283 {
         }
         return;
     }
+
+
+    static public void main(String[] args){
+        MoveZeros283 test=new MoveZeros283();
+        int[] a={0,1,0,3,12};
+        test.moveZeroes(a);
+    }
 }
