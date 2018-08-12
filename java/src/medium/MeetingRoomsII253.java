@@ -14,13 +14,37 @@ package medium;//
 
 import easy.Interval;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Set;
+import java.util.*;
 
 public class MeetingRoomsII253 {
     public int minMeetingRooms(Interval[] intervals) {
-        HashMap<Integer , Integer> timeDict=new HashMap<>();
+//        HashMap<Integer , Integer> timeDict=new HashMap<>();
+//        for(Interval interval :intervals){
+//            if(timeDict.containsKey(interval.start)){
+//                timeDict.put(interval.start , timeDict.get(interval.start)+1);
+//            }else{
+//                timeDict.put(interval.start , 1);
+//            }
+//
+//            if(timeDict.containsKey(interval.end)){
+//                timeDict.put(interval.end , timeDict.get(interval.end)-1);
+//            }else{
+//                timeDict.put(interval.end , -1);
+//            }
+//        }
+//        Set<Integer> keys=timeDict.keySet();
+//        Integer[] times=keys.toArray(new Integer[keys.size()]);
+//        Arrays.sort(times);
+//        int ans=0;
+//        int cur=0;
+//        for(int t: times){
+//            cur+=timeDict.get(t);
+//            ans=Math.max(ans , cur);
+//        }
+//        return ans;
+
+
+        Map<Integer , Integer> timeDict=new TreeMap((x , y)->(int)x-(int)y);
         for(Interval interval :intervals){
             if(timeDict.containsKey(interval.start)){
                 timeDict.put(interval.start , timeDict.get(interval.start)+1);
@@ -34,13 +58,10 @@ public class MeetingRoomsII253 {
                 timeDict.put(interval.end , -1);
             }
         }
-        Set<Integer> keys=timeDict.keySet();
-        Integer[] times=keys.toArray(new Integer[keys.size()]);
-        Arrays.sort(times);
         int ans=0;
         int cur=0;
-        for(int t: times){
-            cur+=timeDict.get(t);
+        for(Integer v:timeDict.values()){
+            cur+=v;
             ans=Math.max(ans , cur);
         }
         return ans;
