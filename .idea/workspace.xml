@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/medium/ReorderList143.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberofIslandsII305.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/NumberofIslandsII305.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StickersSpellWord691.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/hard/StickersSpellWord691.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,14 +94,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionTwoArrays349.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntersectionTwoArrays349.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state relative-caret-position="109">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReorderList143.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/medium/ReorderList143.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -145,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
         <option value="$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DiagonalTraverse498.java" />
@@ -196,6 +194,7 @@
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java" />
         <option value="$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/ReorderList143.java" />
       </list>
     </option>
   </component>
@@ -236,13 +235,6 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
@@ -427,12 +419,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29690948" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29690948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30852503" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30852503" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -765,7 +757,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java</url>
-          <line>46</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
@@ -784,13 +776,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/hard/DesignSearchAutocompleteSystem642.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -1146,11 +1131,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="109">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ReorderList143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
