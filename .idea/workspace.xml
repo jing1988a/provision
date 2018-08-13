@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NQueensII52.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/NQueensII52.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NumberofIslandsII305.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/hard/NumberofIslandsII305.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +92,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubarraySumEqualsK560.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubarraySumEqualsK560.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="288">
+              <caret line="34" selection-start-line="34" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntersectionTwoArrays349.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/WiggleSort280.java" />
         <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
         <option value="$PROJECT_DIR$/java/src/medium/SortTransformedArray360.java" />
@@ -196,6 +195,7 @@
         <option value="$PROJECT_DIR$/java/src/medium/DivideTwoIntegers29.java" />
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java" />
+        <option value="$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java" />
       </list>
     </option>
   </component>
@@ -207,7 +207,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="492" />
-    <option name="y" value="24" />
+    <option name="y" value="25" />
     <option name="width" value="948" />
     <option name="height" value="836" />
   </component>
@@ -236,6 +236,13 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
@@ -285,19 +292,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubarraySumEqualsK560">
+  <component name="RunManager" selected="Application.IntersectionTwoArrays349">
     <configuration name="BasicCalculatorIII772" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hard.BasicCalculatorIII772" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NumberofIslandsII305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.NumberofIslandsII305" />
+    <configuration name="IntersectionTwoArrays349" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.IntersectionTwoArrays349" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="ShortestDistancefromAllBuildings317" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.ShortestDistancefromAllBuildings317" />
+    <configuration name="NumberofIslandsII305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.NumberofIslandsII305" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -359,19 +372,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
       <item itemvalue="Application.NumberofIslandsII305" />
       <item itemvalue="Application.StickersSpellWord691" />
       <item itemvalue="Application.BasicCalculatorIII772" />
       <item itemvalue="Application.SubarraySumEqualsK560" />
+      <item itemvalue="Application.IntersectionTwoArrays349" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntersectionTwoArrays349" />
         <item itemvalue="Application.SubarraySumEqualsK560" />
         <item itemvalue="Application.BasicCalculatorIII772" />
         <item itemvalue="Application.StickersSpellWord691" />
         <item itemvalue="Application.NumberofIslandsII305" />
-        <item itemvalue="Application.ShortestDistancefromAllBuildings317" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +411,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="24" width="948" height="836" extended-state="0" />
+    <frame x="492" y="25" width="948" height="836" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -749,8 +763,20 @@
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="63" />
+      <option name="time" value="67" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -758,13 +784,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/medium/StrobogrammaticNumberII247.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="67" column="43" lean-forward="true" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -1117,8 +1136,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="288">
+          <caret line="34" selection-start-line="34" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/easy/IntersectionTwoArrays349.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
