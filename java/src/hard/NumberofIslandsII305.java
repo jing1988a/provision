@@ -69,9 +69,11 @@ public class NumberofIslandsII305 {
 
     class Union{
         Map<Integer , Integer> dict=new HashMap();
+        int totalP=0;
         public int findP(int v){
             if(!this.dict.containsKey(v)){
                 this.dict.put(v , v);
+                this.totalP++;
             }
             if(this.dict.get(v)==v){
                 return v;
@@ -83,13 +85,15 @@ public class NumberofIslandsII305 {
         public void unionP(int p , int q){
             if(p==q){return;}
             this.dict.put(p , q);
+            this.totalP--;
         }
         public int totalP(){
-            Set<Integer> s=new HashSet();
-            for(Integer v:this.dict.keySet()){
-                s.add(findP(v));
-            }
-            return s.size();
+            // Set<Integer> s=new HashSet();
+            // for(Integer v:this.dict.keySet()){
+            //     s.add(findP(v));
+            // }
+            // return s.size();
+            return this.totalP;
         }
     }
 
