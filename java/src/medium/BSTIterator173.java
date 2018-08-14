@@ -9,20 +9,61 @@ package medium;//implement an iterator over a binary search tree (BST). Your ite
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class BSTIterator173 {
-    List<Integer> roots=new ArrayList<>();
-    int curIdx=0;
-    int totalLen;
+//    List<Integer> roots=new ArrayList<>();
+//    int curIdx=0;
+//    int totalLen;
+//    public BSTIterator173(TreeNode root) {
+//        inorder(root);
+//        totalLen=this.roots.size();
+//    }
+//
+//    /** @return whether we have a next smallest number */
+//    public boolean hasNext() {
+//        if(this.totalLen==this.curIdx){return false;}
+//        return true;
+//    }
+//
+//    /** @return the next smallest number */
+//    public int next(){
+//        // if(hasNext()==false){
+//        //     throw new Exception("end of nodes");
+//        // }
+//        int ans=this.roots.get(this.curIdx);
+//        this.curIdx++;
+//        return ans;
+//    }
+//    private void inorder(TreeNode root){
+//
+//        if(root==null){
+//            return;
+//        }
+//        inorder(root.left);
+//        this.roots.add(root.val);
+//        inorder(root.right);
+//    }
+
+
+
+
+
+
+
+
+
+    Stack<TreeNode> roots=new Stack<>();
+
     public BSTIterator173(TreeNode root) {
-        inorder(root);
-        totalLen=this.roots.size();
+        travelLeft(root);
+
     }
 
     /** @return whether we have a next smallest number */
     public boolean hasNext() {
-        if(this.totalLen==this.curIdx){return false;}
-        return true;
+
+        return !roots.isEmpty();
     }
 
     /** @return the next smallest number */
@@ -30,18 +71,22 @@ public class BSTIterator173 {
         // if(hasNext()==false){
         //     throw new Exception("end of nodes");
         // }
-        int ans=this.roots.get(this.curIdx);
-        this.curIdx++;
-        return ans;
+        TreeNode ans=this.roots.pop();
+        if(ans.right!=null){
+            TreeNode cur=ans.right;
+            travelLeft(cur);
+
+        }
+        return ans.val;
+
     }
-    private void inorder(TreeNode root){
+    private void travelLeft(TreeNode root){
 
         if(root==null){
             return;
         }
-        inorder(root.left);
-        this.roots.add(root.val);
-        inorder(root.right);
+        this.roots.add(root);
+        travelLeft(root.left);
     }
 }
 

@@ -147,7 +147,7 @@ public class BinaryTreeVerticalOrderTraversal314 {
 //            ans.add(orderVal.get(o));
 //        }
 //        return ans;
-        
+
 //        actually treeSet is slower
         List<List<Integer>> ans = new ArrayList<>();
         for(List<Integer> v:orderVal.values()){
