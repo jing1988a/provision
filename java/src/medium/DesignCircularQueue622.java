@@ -60,7 +60,7 @@ public class DesignCircularQueue622 {
 
     /** Delete an element from the circular queue. Return true if the operation is successful. */
     public boolean deQueue() {
-        if(this.end==this.start){
+        if(isEmpty()){
             return false;
         }
         this.start++;

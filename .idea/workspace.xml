@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,29 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DesignCircularQueue622.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesignTicTacToe348.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="87" selection-start-line="87" selection-end-line="124" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GateAndWall286.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GateAndWall286.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="585">
+              <caret line="53" column="67" lean-forward="true" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -90,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/NextClosestTime681.java" />
         <option value="$PROJECT_DIR$/java/src/medium/StrobogrammaticNumberII247.java" />
         <option value="$PROJECT_DIR$/java/src/medium/KnightProbabilityChessboard688.java" />
         <option value="$PROJECT_DIR$/java/src/medium/UTF8Validation393.java" />
@@ -129,7 +110,6 @@
         <option value="$PROJECT_DIR$/java/src/InsertIntoCyclicSortedList708.java" />
         <option value="$PROJECT_DIR$/java/src/medium/InsertIntoCyclicSortedList708.java" />
         <option value="$PROJECT_DIR$/java/src/BasicCalculatorIII772.java" />
-        <option value="$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java" />
         <option value="$PROJECT_DIR$/java/src/medium/NextPermutation31.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DivideTwoIntegers29.java" />
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
@@ -141,6 +121,8 @@
         <option value="$PROJECT_DIR$/java/src/medium/BSTIterator173.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DecodeString394.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/GateAndWall286.java" />
       </list>
     </option>
   </component>
@@ -1042,20 +1024,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/GraphValidTree261.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1107,8 +1075,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="87" selection-start-line="87" selection-end-line="124" selection-end-column="5" />
+        <state relative-caret-position="414">
+          <caret line="99" column="15" lean-forward="true" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/DesignCircularQueue622.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="101" column="3" lean-forward="true" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/GateAndWall286.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="53" column="67" lean-forward="true" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
         </state>
       </provider>
     </entry>

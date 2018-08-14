@@ -41,7 +41,7 @@ public class GateAndWall286 {
     }
     private void bfs(int[][] rooms , int i , int j  , int n , int m ){
         int[][] directions={ {0 , 1}  , {0 , -1} , {1 , 0} , {-1 , 0}};
-        int[][] visited=new int[n][m];
+        boolean[][] visited=new boolean[n][m];
         List<Integer[]> q=new ArrayList<>();
         q.add(new Integer[] {i , j});
         int cur=0;
@@ -51,8 +51,8 @@ public class GateAndWall286 {
                 for(int[] d:directions){
                     int x=curLoc[0]+d[0];
                     int y=curLoc[1]+d[1];
-                    if(0<=x && x<n && 0<=y && y<m && visited[x][y]==0){
-                        visited[x][y]=1;
+                    if(0<=x && x<n && 0<=y && y<m && !visited[x][y]){
+                        visited[x][y]=true;
                         if(rooms[x][y]>cur+1){
                             rooms[x][y]=cur+1;
                             p.add(new Integer[] {x , y});
