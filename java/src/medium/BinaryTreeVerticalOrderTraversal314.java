@@ -101,7 +101,7 @@ public class BinaryTreeVerticalOrderTraversal314 {
 
 
     public List<List<Integer>> verticalOrder(TreeNode root) {
-        HashMap<Integer, List<Integer>> orderVal = new HashMap<>();
+        Map<Integer, List<Integer>> orderVal = new TreeMap<>((x , y)->x-y);
         List<Vector> q=new ArrayList<>();
         if(root!=null){
             Vector temp=new Vector();
@@ -139,12 +139,19 @@ public class BinaryTreeVerticalOrderTraversal314 {
         }
 
 
-        Set<Integer> temp = orderVal.keySet();
-        Integer[] orders = temp.toArray(new Integer[0]);
-        Arrays.sort(orders);
+//        Set<Integer> temp = orderVal.keySet();
+//        Integer[] orders = temp.toArray(new Integer[0]);
+//        Arrays.sort(orders);
+//        List<List<Integer>> ans = new ArrayList<>();
+//        for (int o : orders) {
+//            ans.add(orderVal.get(o));
+//        }
+//        return ans;
+        
+//        actually treeSet is slower
         List<List<Integer>> ans = new ArrayList<>();
-        for (int o : orders) {
-            ans.add(orderVal.get(o));
+        for(List<Integer> v:orderVal.values()){
+            ans.add(v);
         }
         return ans;
     }
