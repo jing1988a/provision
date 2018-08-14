@@ -107,21 +107,15 @@ public class DesignTicTacToe348 {
             }
         }
 
-        int i=0;
-        while (i<this.n){
-            if(player==1){
-                if(this.rowCheck[i]==this.n){return player;}
-                if(this.colCheck[i]==this.n){return player;}
-            }else{
-                if(this.rowCheck[i]==-this.n){return player;}
-                if(this.colCheck[i]==-this.n){return player;}
-            }
-            i++;
-        }
+
         if(player==1){
+            if(this.rowCheck[row]==this.n){return player;}
+            if(this.colCheck[col]==this.n){return player;}
             if(this.diagCheck==this.n){return player;}
             if(this.reverseDiagCheck==this.n){return player;}
         }else{
+            if(this.rowCheck[row]==-this.n){return player;}
+            if(this.colCheck[col]==-this.n){return player;}
             if(this.diagCheck==-this.n){return player;}
             if(this.reverseDiagCheck==-this.n){return player;}
         }
