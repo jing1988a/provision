@@ -33,7 +33,7 @@ public class GraphValidTree261 {
             if (u.findP(i) != p) {
                 return false;
             }
-        }
+        }// we need this fucing for loop for the sutuation that there might be 2 or more connected part of the graph
         return true;
     }
 
