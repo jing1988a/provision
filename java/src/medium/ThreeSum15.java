@@ -28,7 +28,9 @@ public class ThreeSum15 {
         Arrays.sort(nums);
         int i=0;
         while(i<l-2){
-            while(i>0 && i<l-2 && nums[i]==nums[i-1]){i++;}
+            while(i>0 && i<l-2 && nums[i]==nums[i-1]){
+                i++;
+            }
             int j=i+1;
             int k=l-1;
             while(j<k){
