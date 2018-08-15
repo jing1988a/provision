@@ -37,7 +37,7 @@ public class TopKFrequentWords692 {
         Queue<List> heapq=new PriorityQueue<>(k , (x , y)->(int)(x.get(0))==(int)(y.get(0))? ((String)x.get(1)).compareTo((String)y.get(1)) : (int)(y.get(0))-(int)(x.get(0)));
         for(String s : count.keySet()){
             int c=count.get(s);
-            heapq.add(new ArrayList(Arrays.asList(c , s)));
+            heapq.offer(new ArrayList(Arrays.asList(c , s)));
         }
         List<String> ans=new ArrayList<>();
         int i=0;

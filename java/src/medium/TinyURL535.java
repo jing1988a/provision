@@ -29,14 +29,23 @@ public class TinyURL535 {
 
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
+
         return this.StoL.get(shortUrl.substring(19));
     }
+
+
     private String getRandomString(){
         StringBuilder temp=new StringBuilder();
         for(int i=0;i<6;i++){
             temp.append(getRandomChar());
         }
-        return temp.toString();
+        String tempS=temp.toString();
+        if(this.StoL.containsKey(tempS)){
+            return getRandomString();
+        }else{
+            return temp.toString();
+        }
+
     }
     private char getRandomChar(){
         String seeds="1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM";

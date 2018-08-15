@@ -59,7 +59,7 @@ public class StrobogrammaticNumberII247 {
         if(n==0){
             if (  candidate.length()>0  &&   candidate.charAt(0) == '0') {
                 return;
-            }
+            }//这个很重要啊！！！
             ans.add(candidate.toString());
             return;
         }
