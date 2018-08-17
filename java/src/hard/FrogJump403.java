@@ -42,7 +42,7 @@ public class FrogJump403 {
         int l=stones.length;
         if(l<2){return true;}
         int target=stones[l-1];
-        Set<Pair<Integer , Integer>> visited=new HashSet();
+        Set<Pair<Integer , Integer>> visited=new HashSet();// 为什么用 pair？  pair 可以放在 set里比value  ， 如果用 list 的话 会比object id 就算里面的值相等 set也会表示不相等
         // visited.add(new Pair(0 , 0));
         Set<Integer> stoneSet=new HashSet<>();
         for(int s:stones){

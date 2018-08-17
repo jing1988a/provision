@@ -39,8 +39,8 @@ import java.util.Map;
 //
 //    public LRUcache146(int capacity) {
 //        this.capacity=capacity;
-//        int size=  (int) (capacity/0.75)+1;
-//        this.dict=new LinkedHashMap(size , 0.75f , true){
+//        int maxSize=  (int) (capacity/0.75)+1;
+//        this.dict=new LinkedHashMap(maxSize , 0.75f , true){
 //            @Override
 //            protected boolean removeEldestEntry(Map.Entry eldest) {
 //                return this.size()>capacity;

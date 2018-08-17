@@ -142,7 +142,7 @@ public class AlienDictionary269 {
                     for(Character child:graph.get(cur)){
                         int newD= degree.get(child)-1;
                         if(newD==0){
-                            degree.remove(newD);
+                            degree.remove(child);
                             p.add(child);
                         }else{
                             degree.put(child , newD);

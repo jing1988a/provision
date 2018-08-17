@@ -32,7 +32,7 @@ package hard;
 import java.util.*;
 
 public class InsertDeleteGetRandomO1Duplicatesallowed381 {
-    Map<Integer  , TreeSet<Integer>> valIdx=new HashMap<>();
+    Map<Integer  , TreeSet<Integer>> valIdx=new HashMap<>();// 用 doubleLinked list 会比 treeSet 好  treeSet 是O（logN）   DL 是O(1)
     List<Integer> storage=new ArrayList<>();
     /** Initialize your data structure here. */
     public InsertDeleteGetRandomO1Duplicatesallowed381() {

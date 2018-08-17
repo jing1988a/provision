@@ -77,13 +77,14 @@ public class GoatLatin824 {
             ansList.add(temp.toString());
         }
 
-        StringBuilder realAns = new StringBuilder();
-        for (String s : ansList) {
-            realAns.append(s);
-            realAns.append(' ');
-        }
-        realAns.deleteCharAt(realAns.length() - 1);
-        return realAns.toString();
+//        StringBuilder realAns = new StringBuilder();
+//        for (String s : ansList) {
+//            realAns.append(s);
+//            realAns.append(' ');
+//        }
+//        realAns.deleteCharAt(realAns.length() - 1);
+//        return realAns.toString();
+        return String.join(" " , ansList); // 就是上面的简化一下啦
 
     }
 
