@@ -27,7 +27,7 @@ public class StrStr28 {
 //        if(ln<ln){return -1;}
         for(int i=0 ; i<lh-ln+1; i++){
             if(haystack.charAt(i)==needle.charAt(0)){
-                if(isPrefix(haystack , i , needle)==true){
+                if(isPrefix(haystack , i , needle)){
                     return i;
                 }
             }
