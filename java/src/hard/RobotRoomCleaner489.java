@@ -48,6 +48,8 @@ package hard;//Given a robot cleaner in a room modeled as a grid.
 //        Assume all four edges of the grid are all surrounded by wall.
 
 
+import javafx.util.Pair;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
@@ -55,23 +57,19 @@ import java.util.Set;
 public class RobotRoomCleaner489 {
     public void cleanRoom(Robot robot) {
         int[][] directions={{-1 , 0} , {0 , 1} ,{1 , 0} , {0 , -1} };
-        Set<String> visited=new HashSet<>();
+        Set<Pair<Integer , Integer>> visited=new HashSet<>();
         dfs(new Integer[] {0 , 0} , visited , 0  , directions, robot);
     }
-    private void dfs(Integer[] loc , Set<String> visited , int d , int[][] directions , Robot robot){
+    private void dfs(Integer[] loc , Set<Pair<Integer , Integer>> visited , int d , int[][] directions , Robot robot){
         robot.clean();
-        String x=String.valueOf(loc[0]);
-        String y=String.valueOf(loc[1]);
-        visited.add(x+','+y);
+        visited.add(new Pair<>(loc[0] , loc[1]));
         Integer[] newLoc=new Integer[2];
         for(int i=0 ; i<4; i++){
             if(robot.move()) {
                 newLoc[0] = loc[0] + directions[d][0];
                 newLoc[1] = loc[1] + directions[d][1];
-                String newX=String.valueOf(newLoc[0]);
-                String newY=String.valueOf(newLoc[1]);
-                String temp=newX+','+newY;
-                if (!visited.contains(temp)) {
+                Pair<Integer , Integer> newP=new Pair<>(newLoc[0] , newLoc[1]);
+                if (!visited.contains(newP)) {
                     dfs(newLoc, visited, d, directions, robot);
                 }
                 goBack(robot);
