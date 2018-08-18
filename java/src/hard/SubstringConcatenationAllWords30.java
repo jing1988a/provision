@@ -72,6 +72,10 @@ public class SubstringConcatenationAllWords30 {
                     }
                     start+=m;
 
+//                    end+=m;
+//                    start=end;
+//                    candidates=new HashMap(wordCount);  为毛这样不行？？？？
+
 
                 }
             }
