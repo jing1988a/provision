@@ -70,6 +70,8 @@ package medium;
 //        ]
 
 
+import javafx.util.Pair;
+
 import java.util.*;
 
 public class BinaryTreeVerticalOrderTraversal314 {
@@ -102,18 +104,17 @@ public class BinaryTreeVerticalOrderTraversal314 {
 
     public List<List<Integer>> verticalOrder(TreeNode root) {
         Map<Integer, List<Integer>> orderVal = new TreeMap<>((x , y)->x-y);
-        List<Vector> q=new ArrayList<>();
+        List<Pair> q=new ArrayList<>();
         if(root!=null){
-            Vector temp=new Vector();
-            temp.add(root);
-            temp.add(1);
+            Pair temp=new Pair(root , 1);
+
             q.add(temp);
         }
         while(!q.isEmpty()){
-            List<Vector> p=new ArrayList<>();
-            for(Vector v:q){
-                TreeNode node=(TreeNode)v.get(0);
-                int order=(int)v.get(1);
+            List<Pair> p=new ArrayList<>();
+            for(Pair v:q){
+                TreeNode node=(TreeNode)v.getKey();
+                int order=(int)v.getValue();
                 if(!orderVal.containsKey(order)){
                     List<Integer> temp=new ArrayList<>();
                     temp.add(node.val);
@@ -123,15 +124,12 @@ public class BinaryTreeVerticalOrderTraversal314 {
                 }
 
                 if(node.left!=null){
-                    Vector vt=new Vector();
-                    vt.add(node.left);
-                    vt.add(order-1);
+                    Pair vt=new Pair(node.left , order-1);
+
                     p.add(vt);
                 }
                 if(node.right!=null){
-                    Vector vt=new Vector();
-                    vt.add(node.right);
-                    vt.add(order+1);
+                    Pair vt=new Pair(node.right , order+1);
                     p.add(vt);
                 }
             }

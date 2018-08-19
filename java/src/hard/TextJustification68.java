@@ -87,8 +87,9 @@ public class TextJustification68 {
             }
             i++;
         }
+
         String lastLine=String.join(" "  ,line);
-        ans.add(String.format("%-"+maxWidth+"s" , lastLine));
+        ans.add(String.format("%-"+maxWidth+"s" , lastLine)); // 学到了没？？？
 
         return ans;
 

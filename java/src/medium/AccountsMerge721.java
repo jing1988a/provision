@@ -36,7 +36,7 @@ public class AccountsMerge721 {
                 String email=a.get(i);  //注意
                 emailNameDict.put(email , name);  //注意
                 String p=u.findP(email);
-                u.unionP(p , p1);
+                u.unionP(p , p1); // p1 还是 parent
                 i++;
             }
         }
