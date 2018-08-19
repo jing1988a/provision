@@ -20,14 +20,14 @@ public class KthLargestElementinArray215 {
         if(k>l){
             return -1;
         }
-        PriorityQueue<Integer> q=new PriorityQueue<>();
+        PriorityQueue<Integer> q=new PriorityQueue<>((x , y)->y-x);
         for(int n : nums){
-            q.offer(-n);
+            q.offer(n);
         }
         int ans=0;
         for(int i=0 ;i<k;i++){
             ans=q.poll();
         }
-        return -ans;
+        return ans;
     }
 }
