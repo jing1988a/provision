@@ -35,7 +35,7 @@ public class ZigzagIterator281 {
     public ZigzagIterator281(List<Integer> v1, List<Integer> v2) {
 
         if (!v1.isEmpty()) {
-            this.storage.add(new LinkedList<>(v1));
+            this.storage.add(new LinkedList<>(v1));//学到了没？？ LIST 变deque
             this.n++;
         }
         if (!v2.isEmpty()) {

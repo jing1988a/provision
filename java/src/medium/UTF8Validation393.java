@@ -105,7 +105,7 @@ public class UTF8Validation393 {
         for(int i=0 ; i<l ; i++){
             String bStr=Integer.toBinaryString(data[i]);
             if(bStr.length()<8){
-                ans[i]=String.format("%10s" , bStr).replace(' ' , '0');
+                ans[i]=String.format("%8s" , bStr).replace(' ' , '0');
             }else{
                 ans[i]=bStr.substring(  bStr.length()-8 );
             }

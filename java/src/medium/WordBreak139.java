@@ -31,7 +31,7 @@ public class WordBreak139 {
         int l=s.length();
         if(l==0){return true;}
         boolean[] dp=new boolean[l+1];
-        Arrays.fill(dp , false);
+        //Arrays.fill(dp , false);
         dp[0]=true;
         Set<String>  dict= new HashSet<>();
         for(String word:wordDict){dict.add(word);}
