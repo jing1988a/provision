@@ -16,26 +16,7 @@
     <SUITE FILE_PATH="coverage/leetcode_fb$MeetingRooms252.ic" NAME="MeetingRooms252 Coverage Results" MODIFIED="1532955549349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContinuousSubarraySum523.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConvertBinarySearchTreeSortedDoublyLinkedList426.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/TextJustification68.java" />
         <option value="$PROJECT_DIR$/java/src/LRUcache146.java" />
         <option value="$PROJECT_DIR$/java/src/LFU460.java" />
         <option value="$PROJECT_DIR$/java/src/ReversePairs493.java" />
@@ -115,6 +95,7 @@
         <option value="$PROJECT_DIR$/java/src/medium/CloneGraph133.java" />
         <option value="$PROJECT_DIR$/java/src/medium/CombinationSumIV377.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DecodeWays91.java" />
+        <option value="$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java" />
       </list>
     </option>
   </component>
@@ -158,13 +139,6 @@
               <item name="provision" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provision" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
@@ -331,7 +305,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="229" y="99" width="1658" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -992,13 +965,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/DiagonalTraverse498.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -1064,8 +1030,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/medium/ConvertBinarySearchTreeSortedDoublyLinkedList426.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/medium/ContinuousSubarraySum523.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
         </state>
       </provider>
     </entry>
