@@ -32,7 +32,7 @@ public class NextClosestTime681 {
 
             }
 //            String candidate=String.valueOf(hour)+":"+String.valueOf(min)
-            String candidate=String.format("%02d:%02d" , hour , min);
+            String candidate=String.format("%02d:%02d" , hour , min); //学到没
             if(isValid(candidate , time)){
                 return candidate;
             }

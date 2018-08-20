@@ -23,7 +23,7 @@ public class PalinSubStr647 {
         int l=s.length();
         for(int i=0 ; i<l ; i++){
             for(int j=i ; j<l ; j++){
-                if(isPalin(s.substring(i , j+1))==true){
+                if(isPalin(s.substring(i , j+1))){
                     ans++;
                 }
             }

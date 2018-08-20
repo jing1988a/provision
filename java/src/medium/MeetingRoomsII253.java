@@ -44,7 +44,7 @@ public class MeetingRoomsII253 {
 //        return ans;
 
 
-        Map<Integer , Integer> timeDict=new TreeMap((x , y)->(int)x-(int)y);
+        Map<Integer , Integer> timeDict=new TreeMap<>((x , y)->x-y);
         for(Interval interval :intervals){
             if(timeDict.containsKey(interval.start)){
                 timeDict.put(interval.start , timeDict.get(interval.start)+1);

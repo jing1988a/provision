@@ -31,7 +31,7 @@ public class MinimumSizeSubarraySum209 {
                     break;
                 }
             }
-            if(cur>=s){
+            if(cur>=s){//这个if 怕是不需要吧？？？
                 ans=Math.min(ans , end-start+1);
             }
             end++;

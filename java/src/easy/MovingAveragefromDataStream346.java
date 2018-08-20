@@ -27,12 +27,12 @@ public class MovingAveragefromDataStream346 {
     public double next(int val) {
         if(this.size==this.length){
             this.total+=val-this.window.removeFirst();
-            this.window.add(val);
+            this.window.addLast(val);
 
         }else{
             this.length++;
             this.total+=val;
-            this.window.add(val);
+            this.window.addLast(val);
         }
         return this.total/this.length;
     }

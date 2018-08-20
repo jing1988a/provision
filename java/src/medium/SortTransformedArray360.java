@@ -32,7 +32,7 @@ public class SortTransformedArray360 {
     }
 
     private void linerTransfer(int[] nums, int[] ans, int a, int b, int l) {
-        if (b > 0) {
+        if (a > 0) {
             for (int i = 0; i < l; i++) {
                 ans[i] = a * nums[i] + b;
             }
