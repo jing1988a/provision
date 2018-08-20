@@ -69,11 +69,14 @@ public class GoatLatin824 {
                 temp.append(curS.charAt(0));
             }
             temp.append("ma");
-            StringBuilder paddingA = new StringBuilder();
+//            StringBuilder paddingA = new StringBuilder();
+//            for (int j = 0; j < i + 1; j++) {
+//                paddingA.append('a');
+//            }
+//            temp.append(paddingA);
             for (int j = 0; j < i + 1; j++) {
-                paddingA.append('a');
+                temp.append('a');
             }
-            temp.append(paddingA);
             ansList.add(temp.toString());
         }
 
