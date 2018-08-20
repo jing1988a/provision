@@ -29,7 +29,7 @@ public class IntersectionTwoArrays349 {
             for(int n:nums2){
                 n2.add(n);
             }
-            n1.retainAll(n2);
+            n1.retainAll(n2); //学到没
             int[] ans=new int[n1.size()];
             int i=0;
             for(Integer n:n1){

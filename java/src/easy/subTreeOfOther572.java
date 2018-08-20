@@ -40,7 +40,7 @@ public class subTreeOfOther572 {
     private void recur(TreeNode s , TreeNode  t ){
         if(found==true || s==null){return;}
         if(s.val==t.val){
-            if(realCheck(s , t)==true){
+            if(realCheck(s , t)){
                 this.found=true;
                 return;
             };

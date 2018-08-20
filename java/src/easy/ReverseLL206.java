@@ -6,10 +6,9 @@ public class ReverseLL206 {
             return null;
         }
         ListNode pre=null;
-        ListNode temp=null;
         ListNode cur=head;
         while (cur!=null){
-            temp=cur.next;
+            ListNode temp=cur.next;
             cur.next=pre;
             pre=cur;
             cur=temp;
