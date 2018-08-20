@@ -37,7 +37,6 @@ public class MinimumWindowSubstring76 {
         }
         int ansL=Integer.MAX_VALUE;
         String ans="";
-        int n=targetCharCount.size();
         while (end < ls) {
             char c=s.charAt(end);
             if(targetCharCount.containsKey(c)){

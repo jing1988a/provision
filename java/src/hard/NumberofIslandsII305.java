@@ -50,14 +50,14 @@ public class NumberofIslandsII305 {
             int y=positions[i][1];
             grid[x][y]=1;
             int idx=x*n+y;
+            int p1=u.findP(idx);
             for(int[] d: directions){
-                int p1=u.findP(idx);
                 int nextX=x+d[0];
                 int nextY=y+d[1];
                 if(nextX>=0&&nextX<m&&nextY>=0&&nextY<n&&grid[nextX][nextY]==1){
                     int idx2=nextX*n+nextY;
                     int p2=u.findP(idx2);
-                    u.unionP(p1 , p2);
+                    u.unionP(p2 , p1);
                 }
             }
             ans.add(u.totalP());
