@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/hard/BasicCalculatorIII772.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/hard/BasicCalculatorIII772.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/hard/AlienDictionary269.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/hard/AlienDictionary269.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,53 +15,7 @@
     <SUITE FILE_PATH="coverage/leetcode_fb$MeetingRooms252.ic" NAME="MeetingRooms252 Coverage Results" MODIFIED="1532955549349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AlienDictionary269.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/AlienDictionary269.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMedianFromDataStream295.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/FindMedianFromDataStream295.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrogJump403.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/FrogJump403.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertDeleteGetRandomO1Duplicatesallowed381.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/InsertDeleteGetRandomO1Duplicatesallowed381.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertInterval57.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/hard/InsertInterval57.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,7 +79,6 @@
         <option value="$PROJECT_DIR$/java/src/hard/InsertDeleteGetRandomO1Duplicatesallowed381.java" />
         <option value="$PROJECT_DIR$/java/src/hard/FrogJump403.java" />
         <option value="$PROJECT_DIR$/java/src/hard/FindMedianFromDataStream295.java" />
-        <option value="$PROJECT_DIR$/java/src/hard/AlienDictionary269.java" />
         <option value="$PROJECT_DIR$/java/src/hard/LRUcache146.java" />
         <option value="$PROJECT_DIR$/java/src/hard/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/hard/WordSearchII212.java" />
@@ -143,6 +94,7 @@
         <option value="$PROJECT_DIR$/java/src/hard/ExpressionAddOperators282.java" />
         <option value="$PROJECT_DIR$/java/src/hard/DesignSearchAutocompleteSystem642.java" />
         <option value="$PROJECT_DIR$/java/src/hard/BasicCalculatorIII772.java" />
+        <option value="$PROJECT_DIR$/java/src/hard/AlienDictionary269.java" />
       </list>
     </option>
   </component>
@@ -152,10 +104,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="589" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="611" />
     <option name="y" value="23" />
-    <option name="width" value="853" />
+    <option name="width" value="827" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -357,8 +309,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="836" extended-state="6" />
-    <editor active="true" />
+    <frame x="611" y="23" width="827" height="836" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -372,7 +323,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29828325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29808918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
@@ -597,7 +548,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/hard/AlienDictionary269.java</url>
-          <line>181</line>
+          <line>180</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
@@ -1017,34 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/hard/FindMedianFromDataStream295.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/hard/FrogJump403.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/hard/InsertDeleteGetRandomO1Duplicatesallowed381.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/hard/InsertInterval57.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/hard/ExpressionAddOperators282.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3">
@@ -1082,8 +1005,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/hard/AlienDictionary269.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="875">
+          <caret line="140" column="36" lean-forward="true" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/hard/FindMedianFromDataStream295.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/hard/FrogJump403.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/hard/InsertDeleteGetRandomO1Duplicatesallowed381.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/hard/InsertInterval57.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>

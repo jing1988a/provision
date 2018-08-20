@@ -124,7 +124,7 @@ public class AlienDictionary269 {
         if (allNode.isEmpty()) {
             return "";
         }
-        Stack<Character> q = new Stack();
+        List<Character> q = new ArrayList();
         for (Character c : allNode) {
             if (!degree.containsKey(c)) {
                 q.add(c);
@@ -133,9 +133,8 @@ public class AlienDictionary269 {
         }
         List<Character> ans=new ArrayList();
         while (!q.isEmpty()) {
-            Stack<Character> p = new Stack<>();
-            while (!q.isEmpty()) {
-                char cur = q.pop();
+            List<Character> p = new ArrayList<>();
+            for(Character cur:p){
                 allNode.remove(cur);
                 ans.add(cur);
                 if(graph.containsKey(cur)){
