@@ -60,8 +60,8 @@ public class BasicCalculatorIII772 {
 
     private int realCaculate(List<String> sList){
         int l=sList.size();
-        Deque<Integer> numS=new LinkedList();
-        Deque<String> opS=new LinkedList();
+        Deque<Integer> numS=new LinkedList<>();
+        Deque<String> opS=new LinkedList<>();
 
 
         int i=0;
