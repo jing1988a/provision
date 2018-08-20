@@ -26,11 +26,6 @@ public class WordSearch79 {
         int l=word.length();
         if(l==0){return true;}
         boolean[][] visited= new boolean[n][m];
-        for(int x=0 ; x<n;x++){
-            for(int y=0 ; y<m; y++){
-                visited[x][y]=false;
-            }
-        }
         for(int i=0 ; i<n;i++){
             for(int j=0 ; j<m;j++){
                 if(board[i][j]==word.charAt(0)){

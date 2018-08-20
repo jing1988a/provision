@@ -48,7 +48,7 @@ public class FlattenNestedLIst341 implements Iterator<Integer> {
     }
     private void doFlatten(List<NestedInteger> nestedList){
         for(NestedInteger NI: nestedList ){
-            if(NI.isInteger()==true){
+            if(NI.isInteger()){
                 this.flattenedList.add(NI.getInteger());
             }else{
                 doFlatten(NI.getList());

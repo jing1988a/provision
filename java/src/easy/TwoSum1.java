@@ -24,6 +24,6 @@ public class TwoSum1 {
             }
             preValue.put(n , i);
         }
-        return null;
+        return new int[] {};
     }
 }

@@ -71,13 +71,17 @@ public class CloneGraph133 {
 
 
 
-
     public UndirectedGraphNode cloneGraph(UndirectedGraphNode node) {
         if(node==null){return null;}
         UndirectedGraphNode cloneRoot=new UndirectedGraphNode(node.label);
         HashMap<UndirectedGraphNode , UndirectedGraphNode> orignToClone=new HashMap<>();
         orignToClone.put(node , cloneRoot);
-        Deque<UndirectedGraphNode> q=new ArrayDeque<>();
+//    Queue                   |  Offer   | Peak |   Poll   | Remove | Size | Data Structure
+//    ------------------------|----------|------|----------|--------|------|---------------
+//    LinkedList              | O(1)     | O(1) | O(1)     |  O(1)  | O(1) |  Linked List
+//    ArrayDequeue            | O(1)     | O(1) | O(1)     |  O(n)  | O(1) |  Array
+//        Deque<UndirectedGraphNode> q=new ArrayDeque<>();
+        Deque<UndirectedGraphNode> q=new LinkedList<>(); // 其实不用deque  stack也行啊 ， 就是个dfs 嘛
         q.add(node);
         while(!q.isEmpty()){
             UndirectedGraphNode cur=q.removeFirst();

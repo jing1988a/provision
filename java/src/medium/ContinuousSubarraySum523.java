@@ -30,6 +30,8 @@ public class ContinuousSubarraySum523 {
             if (k == 0) {
                 if (modeToIdx.containsKey(curSum) && i - modeToIdx.get(curSum) > 1) {
                     return true;
+                }else{
+                    modeToIdx.put(curSum , i);
                 }
             } else {
                 int curMode = curSum % k;

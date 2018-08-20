@@ -30,4 +30,10 @@ public class StockI121 {
         }
         return ans;
     }
+
+    static public void main(String[] args){
+        StockI121 test=new StockI121();
+        int[] a={2,  8, 1,5,6,4};
+        test.maxProfit(a);
+    }
 }
