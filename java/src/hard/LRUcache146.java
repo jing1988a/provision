@@ -69,8 +69,8 @@ public class LRUcache146 {
     public LRUcache146 (int capacity) {
 
         this.capacity=capacity;
-        int size=(int)(capacity/0.75)+1;
-        this.dict=new HashMap<>(size ,  0.75f);
+        int maxSize=(int)(capacity/0.75)+1;
+        this.dict=new HashMap<>(maxSize ,  0.75f);
 
     }
 
