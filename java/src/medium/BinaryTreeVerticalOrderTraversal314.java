@@ -125,7 +125,6 @@ public class BinaryTreeVerticalOrderTraversal314 {
 
                 if(node.left!=null){
                     Pair vt=new Pair(node.left , order-1);
-
                     p.add(vt);
                 }
                 if(node.right!=null){

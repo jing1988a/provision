@@ -34,7 +34,7 @@ public class CourseScheduleII210 {
 //        List<List<Integer>> graph=buildgraph(numCourses , prerequisites);
 //        Stack<Integer> stack=new Stack<>();
 //        boolean[] visited=new boolean[numCourses];
-//        Arrays.fill(visited , false);
+//
 //        for(int node=0 ; node<numCourses; node++){
 //            if(!visited[node]){
 //                dfs(graph , node , visited , stack );

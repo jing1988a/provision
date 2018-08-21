@@ -49,6 +49,7 @@ public class WordBreakII140 {
         for(String word:wordDict){
             dict.add(word);
         }
+        //Set<String> dict=new HashSet<>(wordDict);  why we can't do this? the whole List will becomes key
         List<String> ans=new ArrayList<>();
         recur(s , 0 , l , dict , new ArrayList<String>() ,   ans);
         return ans;

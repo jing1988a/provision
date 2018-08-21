@@ -120,8 +120,6 @@ public class DesignTicTacToe348 {
             if(this.reverseDiagCheck==-this.n){return player;}
         }
         return 0;
-
-
     }
 
 
