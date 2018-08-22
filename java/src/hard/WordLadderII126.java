@@ -50,7 +50,7 @@ public class WordLadderII126 {
         q.add(temp);
         int l=beginWord.length();
         boolean found=false;
-        while(!q.isEmpty()){
+        while(!q.isEmpty() && found){
             List<String> toRemove=new ArrayList<>();
             List<List> p=new ArrayList<>();
             for(List n:q){
@@ -78,9 +78,9 @@ public class WordLadderII126 {
                     }
                 }
             }
-            if(found){
-                break;
-            }
+//            if(found){
+//                break;
+//            }
             for(String s:toRemove){
                 wordSet.remove(s);
             }
