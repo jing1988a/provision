@@ -58,7 +58,7 @@ public class SudokuSolver37 {
         boolean[][] rowCheck=new boolean[9][9];
         boolean[][] colCheck=new boolean[9][9];
         boolean[][] blockCheck=new boolean[9][9];
-        Stack<Pair<Integer , Integer>> q=new Stack();
+        Stack<Pair<Integer , Integer>> s=new Stack();
         for(int i=0 ; i<9;i++){
             for(int j=0 ; j<9 ; j++){
                 if(Character.isDigit(board[i][j])){
@@ -68,20 +68,20 @@ public class SudokuSolver37 {
                     blockCheck[(i/3)*3+j/3][temp-1]=true;
                 }else{
                     Pair<Integer , Integer> temp=new Pair(i , j);
-                    q.push(temp);
+                    s.push(temp);
                 }
             }
         }
-        dfs(q , board , rowCheck , colCheck , blockCheck) ;
+        dfs(s , board , rowCheck , colCheck , blockCheck) ;
     }
 
-    private void dfs(Stack<Pair<Integer , Integer>> q , char[][] board , boolean[][] rowCheck , boolean[][] colCheck  , boolean[][] blockCheck     ){
+    private void dfs(Stack<Pair<Integer , Integer>> s , char[][] board , boolean[][] rowCheck , boolean[][] colCheck  , boolean[][] blockCheck     ){
         //System.out.println(q);
-        if(q.isEmpty()){
+        if(s.isEmpty()){
             this.found=true;
         }
         if(this.found){return ;}
-        Pair<Integer , Integer> p=q.pop();
+        Pair<Integer , Integer> p=s.pop();
         int i=p.getKey();
         int j=p.getValue();
         for(int v=0 ; v<9  ; v++){
@@ -93,14 +93,14 @@ public class SudokuSolver37 {
             rowCheck[i][v]=true;
             colCheck[j][v]=true;
             blockCheck[(i/3)*3+j/3 ][v]=true;
-            dfs(q , board , rowCheck , colCheck , blockCheck);
+            dfs(s , board , rowCheck , colCheck , blockCheck);
             if(this.found){return ;}
             board[i][j]='.';
             rowCheck[i][v]=false;
             colCheck[j][v]=false;
             blockCheck[(i/3)*3+j/3 ][v]=false;
         }
-        q.add(p);
+        s.push(p);
     }
     private boolean isValid( int i , int j  , int  v , boolean[][] rowCheck , boolean[][] colCheck  , boolean[][] blockCheck){
         if(rowCheck[i][v]){return false;}

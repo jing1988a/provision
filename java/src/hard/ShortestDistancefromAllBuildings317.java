@@ -38,7 +38,6 @@ public class ShortestDistancefromAllBuildings317 {
         for(int i=0 ; i<n ;i++){
             for(int j=0 ; j<m ; j++){
                 if(grid[i][j]==1){
-
                     totalBuilding++;
                     bfs(i , j  , distances , visitCount ,grid,  n , m );
                 }

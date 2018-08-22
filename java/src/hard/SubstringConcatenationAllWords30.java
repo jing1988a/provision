@@ -32,11 +32,12 @@ public class SubstringConcatenationAllWords30 {
         int m=words[0].length();
         Map<String , Integer> wordCount=new HashMap();
         for(String w:words){
-            if(wordCount.containsKey(w)){
-                wordCount.put(w , wordCount.get(w)+1);
-            }else{
-                wordCount.put(w , 1);
-            }
+            wordCount.put(w , wordCount.getOrDefault(w , 0)+1);
+//            if(wordCount.containsKey(w)){
+//                wordCount.put(w , wordCount.get(w)+1);
+//            }else{
+//                wordCount.put(w , 1);
+//            }
         }
 //        Map<String , Integer> candidates=new HashMap(wordCount); //放到外面 每个循环之间就会有干扰。 很皮啊
         for(int i=0 ; i<m;i++){
@@ -63,11 +64,12 @@ public class SubstringConcatenationAllWords30 {
                 }else{
                     String sTemp=s.substring(start-m+1 , start+1);
                     if(wordCount.containsKey(sTemp)){
-                        if(candidates.containsKey(sTemp)){
-                            candidates.put(sTemp , candidates.get(sTemp)+1);
-                        }else{
-                            candidates.put(sTemp , 1);
-                        }
+                        candidates.put(sTemp , candidates.getOrDefault(sTemp , 0)+1);
+//                        if(candidates.containsKey(sTemp)){
+//                            candidates.put(sTemp , candidates.get(sTemp)+1);
+//                        }else{
+//                            candidates.put(sTemp , 1);
+//                        }
 
                     }
                     start+=m;

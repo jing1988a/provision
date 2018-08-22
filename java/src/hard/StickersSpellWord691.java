@@ -111,11 +111,12 @@ public class StickersSpellWord691 {
     private  Map<Character , Integer> getCharCount(String str){
         Map<Character ,Integer> sCount=new HashMap<>();
         for(char c:str.toCharArray()){
-            if(sCount.containsKey(c)){
-                sCount.put(c , sCount.get(c)+1);
-            }else{
-                sCount.put(c , 1);
-            }
+            sCount.put(c , sCount.getOrDefault(c , 0)+1);
+//            if(sCount.containsKey(c)){
+//                sCount.put(c , sCount.get(c)+1);
+//            }else{
+//                sCount.put(c , 1);
+//            }
         }
         return sCount;
     }
