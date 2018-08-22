@@ -110,7 +110,7 @@ public class WordSearchII212 {
         for (int[] d : direction) {
             int x = i + d[0];
             int y = j + d[1];
-            if (x >= 0 && x < n && y >= 0 && y < m && visited[x][y] == false) {
+            if (x >= 0 && x < n && y >= 0 && y < m && !visited[x][y]) {
                 dfs(board, x, y, node, ans, visited, t, n, m);
             }
         }
