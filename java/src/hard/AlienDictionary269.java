@@ -86,24 +86,24 @@ public class AlienDictionary269 {
 
                         if(!graph.get(a).contains(b)) {
                             graph.get(a).add(b);
-
-                            if (degree.containsKey(b)) {
-                                degree.put(b, degree.get(b) + 1);
-                            } else {
-                                degree.put(b, 1);
-                            }
+                            degree.put(b , degree.getOrDefault(b , 0)+1);
+//                            if (degree.containsKey(b)) {
+//                                degree.put(b, degree.get(b) + 1);
+//                            } else {
+//                                degree.put(b, 1);
+//                            }
                         }
 
                     } else {
                         Set<Character> temp = new HashSet();
                         temp.add(b);
                         graph.put(a, temp);
-
-                        if (degree.containsKey(b)) {
-                            degree.put(b, degree.get(b) + 1);
-                        } else {
-                            degree.put(b, 1);
-                        }
+                        degree.put(b , degree.getOrDefault(b , 0)+1);
+//                        if (degree.containsKey(b)) {
+//                            degree.put(b, degree.get(b) + 1);
+//                        } else {
+//                            degree.put(b, 1);
+//                        }
                     }
 
 

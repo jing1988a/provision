@@ -72,7 +72,7 @@ public class DesignSearchAutocompleteSystem642 {
         List<String> ans = new ArrayList<>();
         if (c == '#') {
             insertsString(this.curSearch, 1);
-            this.searchRoot=root;
+            this.searchRoot=this.root;
             this.curSearch = "";
         } else {
             this.curSearch=this.curSearch+String.valueOf(c);
