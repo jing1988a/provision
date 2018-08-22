@@ -26,6 +26,11 @@ public class ClosestBinarySearchTreeValue270 {
     private void bSearch(TreeNode node , double target){
         if(node ==null){return;}
         double curDis=Math.abs(target-node.val);
+        if(curDis==0){
+            this.ans=node.val;
+            this.distance=curDis;
+            return;
+        }//ha好像不需要这块吧。。
         if(curDis<this.distance){
             this.ans=node.val;
             this.distance=curDis;

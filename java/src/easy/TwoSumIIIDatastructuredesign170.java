@@ -27,11 +27,12 @@ public class TwoSumIIIDatastructuredesign170 {
 
     /** Add the number to an internal data structure.. */
     public void add(int number) {
-        if(!this.store.containsKey(number)){
-            this.store.put(number , 1);
-        }else{
-            this.store.put(number  , this.store.get(number)+1);
-        }
+        this.store.put(number , this.store.getOrDefault(number , 0)+1);
+//        if(!this.store.containsKey(number)){
+//            this.store.put(number , 1);
+//        }else{
+//            this.store.put(number  , this.store.get(number)+1);
+//        }
     }
 
     /** Find if there exists any pair of numbers which sum is equal to the value. */
