@@ -24,14 +24,14 @@ public class GraphValidTree261 {
             int pa = u.findP(a);
             int pb = u.findP(b);
             if (pa == pb) {
-                return false;
+                return false;// cycle
             }
             u.unionP(pa, pb);
         }
         int p = u.findP(0);
         for (int i = 1; i < n; i++) {
             if (u.findP(i) != p) {
-                return false;
+                return false; // not in same tree
             }
         }// we need this fucing for loop for the sutuation that there might be 2 or more connected part of the graph
         return true;
