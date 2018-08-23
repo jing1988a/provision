@@ -18,26 +18,29 @@ package medium;
 
 public class RandomPickDup398 {
     int[] nums;
+
     public RandomPickDup398(int[] nums) {
-        this.nums=nums;
+
+        this.nums = nums;
     }
 
     public int pick(int target) {
-        int idx=0;
-        int count=0;
-        int ans=-1;
-        for(int n: this.nums){
-            if(n==target){
+        int idx = 0;
+        int count = 0;
+        int ans = -1;
+        for (int n : this.nums) {
+            if (n == target) {
                 count++;
-                if(randInt(count)==0){
-                    ans=idx;
+                if (randInt(count) == 0) {
+                    ans = idx;
                 }
             }
             idx++;
         }
         return ans;
     }
-    private int randInt( int end){
-        return (int)(Math.random()*end);
+
+    private int randInt(int end) {
+        return (int) (Math.random() * end);
     }
 }

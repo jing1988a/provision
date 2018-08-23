@@ -23,11 +23,12 @@ public class SubarraySumEqualsK560 {
         for(int n:nums){
             curSum+=n;
             if(sumCount.containsKey(curSum-k)){ans+=sumCount.get(curSum-k);}
-            if(sumCount.containsKey(curSum)){
-                sumCount.put(curSum , sumCount.get(curSum)+1);
-            }else{
-                sumCount.put(curSum , 1);
-            }
+            sumCount.put(curSum , sumCount.getOrDefault(curSum , 0)+1);
+//            if(sumCount.containsKey(curSum)){
+//                sumCount.put(curSum , sumCount.get(curSum)+1);
+//            }else{
+//                sumCount.put(curSum , 1);
+//            }
         }
         return ans;
     }

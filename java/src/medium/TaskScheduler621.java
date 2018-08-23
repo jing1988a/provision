@@ -26,8 +26,9 @@ public class TaskScheduler621 {
     private  HashMap<Character , Integer> countChar(char[] tasks){
         HashMap<Character , Integer> ans=new HashMap<>();
         for(char c: tasks){
-            if(ans.containsKey(c)){ans.put(c , ans.get(c)+1);}
-            else{ans.put(c , 1);}
+            ans.put(c , ans.getOrDefault(c , 0)+1);
+//            if(ans.containsKey(c)){ans.put(c , ans.get(c)+1);}
+//            else{ans.put(c , 1);}
         }
         return ans;
     }

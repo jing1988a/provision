@@ -28,17 +28,21 @@ import java.util.Set;
 
 public class WordBreak139 {
     public boolean wordBreak(String s, List<String> wordDict) {
-        int l=s.length();
-        if(l==0){return true;}
-        boolean[] dp=new boolean[l+1];
+        int l = s.length();
+        if (l == 0) {
+            return true;
+        }
+        boolean[] dp = new boolean[l + 1];
         //Arrays.fill(dp , false);
-        dp[0]=true;
-        Set<String>  dict= new HashSet<>();
-        for(String word:wordDict){dict.add(word);}
-        for(int i=1 ; i<l+1 ; i++){
-            for(int j=1 ; j<i+1;j++){
-                if(dp[i-j] && dict.contains(s.substring(i-j , i))){
-                    dp[i]=true;
+        dp[0] = true;
+        Set<String> dict = new HashSet<>();
+        for (String word : wordDict) {
+            dict.add(word);
+        }
+        for (int i = 1; i < l + 1; i++) {
+            for (int j = 1; j < i + 1; j++) {
+                if (dp[i - j] && dict.contains(s.substring(i - j, i))) {
+                    dp[i] = true;
                     break;
                 }
             }

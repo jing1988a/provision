@@ -46,17 +46,20 @@ public class MeetingRoomsII253 {
 
         Map<Integer , Integer> timeDict=new TreeMap<>((x , y)->x-y);
         for(Interval interval :intervals){
-            if(timeDict.containsKey(interval.start)){
-                timeDict.put(interval.start , timeDict.get(interval.start)+1);
-            }else{
-                timeDict.put(interval.start , 1);
-            }
+            timeDict.put(interval.start , timeDict.getOrDefault(interval.start , 0)+1);
+            timeDict.put(interval.end , timeDict.getOrDefault(interval.end , 0)-1);
 
-            if(timeDict.containsKey(interval.end)){
-                timeDict.put(interval.end , timeDict.get(interval.end)-1);
-            }else{
-                timeDict.put(interval.end , -1);
-            }
+//            if(timeDict.containsKey(interval.start)){
+//                timeDict.put(interval.start , timeDict.get(interval.start)+1);
+//            }else{
+//                timeDict.put(interval.start , 1);
+//            }
+//
+//            if(timeDict.containsKey(interval.end)){
+//                timeDict.put(interval.end , timeDict.get(interval.end)-1);
+//            }else{
+//                timeDict.put(interval.end , -1);
+//            }
         }
         int ans=0;
         int cur=0;

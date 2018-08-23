@@ -35,9 +35,9 @@ public class NumberLongestIncreasingSubsequence673 {
         for(int i=1   ; i<l ; i++){
             for(int j=0;j<i;j++){
                 if(nums[i]>nums[j]){
-                    if(dp[j][0]==dp[i][0]-1){
+                    if(dp[j][0]+1==dp[i][0]){
                         dp[i][1]+=dp[j][1];
-                    }else if(dp[j][0]>dp[i][0]-1){
+                    }else if(dp[j][0]+1>dp[i][0]){
                         dp[i][0]=dp[j][0]+1;
                         dp[i][1]=dp[j][1];
                     }

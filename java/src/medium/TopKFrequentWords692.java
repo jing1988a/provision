@@ -28,11 +28,12 @@ public class TopKFrequentWords692 {
     public List<String> topKFrequent(String[] words, int k) {
         Map<String , Integer> count=new HashMap<>();
         for(String w:words){
-            if(count.containsKey(w)){
-                count.put(w , count.get(w)+1);
-            }else{
-                count.put(w , 1);
-            }
+            count.put(w , count.getOrDefault(w , 0)+1);
+//            if(count.containsKey(w)){
+//                count.put(w , count.get(w)+1);
+//            }else{
+//                count.put(w , 1);
+//            }
         }
         Queue<List> heapq=new PriorityQueue<>(k , (x , y)->(int)(x.get(0))==(int)(y.get(0))? ((String)x.get(1)).compareTo((String)y.get(1)) : (int)(y.get(0))-(int)(x.get(0)));
         for(String s : count.keySet()){
