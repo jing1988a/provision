@@ -17,9 +17,9 @@ public class ValidPalindrome125 {
         int end=0;
         int start=s.length();
         while(start<end){
-            if(Character.isLetterOrDigit(s.charAt(start))==false){
+            if(!Character.isLetterOrDigit(s.charAt(start))){
                 start++;
-            }else if(Character.isLetterOrDigit(s.charAt(end))==false){
+            }else if(!Character.isLetterOrDigit(s.charAt(end))){
                 end--;
             }else{
                 if(Character.toLowerCase(s.charAt(start))!=Character.toLowerCase(s.charAt(end))){
