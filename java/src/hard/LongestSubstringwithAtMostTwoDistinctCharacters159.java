@@ -19,6 +19,7 @@ import java.util.Set;
 
 public class LongestSubstringwithAtMostTwoDistinctCharacters159 {
     public int lengthOfLongestSubstringTwoDistinct(String s) {
+        int k=2;
         int l=s.length();
         int end=0;
         int start=0;
@@ -26,11 +27,11 @@ public class LongestSubstringwithAtMostTwoDistinctCharacters159 {
         Map<Character , Integer> charIdx=new HashMap<>();
         Set<Character> contains=new HashSet<>();
         while(end<l){
-            while(end<l && contains.size()<=2 ){
+            while(end<l && contains.size()<=k ){
                 char c=s.charAt(end);
                 contains.add(c);
                 charIdx.put(c , end);
-                if(contains.size()<=2) {
+                if(contains.size()<=k) {
                     ans = Math.max(ans, end - start + 1);
                 }
                 end++;
