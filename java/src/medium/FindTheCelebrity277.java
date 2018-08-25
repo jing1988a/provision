@@ -11,25 +11,30 @@ import java.util.Arrays;
 
 public class FindTheCelebrity277 {
     public int findCelebrity(int n) {
-        boolean[] candidates=new boolean[n];
-        Arrays.fill(candidates , true);
-        for(int i=0 ; i<n ; i++){
-            for(int j=0 ; j<n ; j++){
-                if(candidates[i] && i!=j){
-                    if(knows(i , j) || !knows(j , i)){
-                        candidates[i]=false;
-                        break;
-                    }else{
-                        candidates[j]=false;
+        boolean[] candidates = new boolean[n];
+        Arrays.fill(candidates, true);
+        for (int i = 0; i < n; i++) {
+            if (candidates[i]) {
+                for (int j = 0; j < n; j++) {
+                    if (i != j) {
+                        if (knows(i, j) || !knows(j, i)) {
+                            candidates[i] = false;
+                            break;
+                        } else {
+                            candidates[j] = false;
+                        }
                     }
                 }
+                if (candidates[i]) {
+                    return i;
+                }
             }
-            if(candidates[i]){return i;}
         }
         return -1;
 
     }
-    boolean knows(int a, int b){
+
+    boolean knows(int a, int b) {
         return true;
     }
 }

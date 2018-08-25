@@ -32,11 +32,12 @@ public class BrickWall554 {
             int cur=0;
             for(int i=0 ; i<layer.size()-1 ; i++){
                 cur+=layer.get(i);
-                if(lines.containsKey(cur)){
-                    lines.put(cur , lines.get(cur)+1);
-                }else{
-                    lines.put(cur , 1);
-                }
+                lines.put(cur , lines.getOrDefault(cur , 0)+1);
+//                if(lines.containsKey(cur)){
+//                    lines.put(cur , lines.get(cur)+1);
+//                }else{
+//                    lines.put(cur , 1);
+//                }
             }
         }
 

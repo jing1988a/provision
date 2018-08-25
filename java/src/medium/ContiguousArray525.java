@@ -29,7 +29,7 @@ public class ContiguousArray525 {
                 cur++;
             }
             temp[i] = cur;
-        }
+        }//重要
         HashMap<Integer, Integer> balanceIdx = new HashMap<>();
         balanceIdx.put(0, -1);
         int ans = 0;

@@ -43,7 +43,7 @@ public class TinyURL535 {
         if(this.StoL.containsKey(tempS)){
             return getRandomString();
         }else{
-            return temp.toString();
+            return tempS;
         }
 
     }

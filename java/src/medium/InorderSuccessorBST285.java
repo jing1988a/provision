@@ -29,21 +29,46 @@ package medium;
 public class InorderSuccessorBST285 {
     TreeNode ans;
     TreeNode pre;
+
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
-        if(root==null){
+
+
+        if (root == null) {
             return null;
         }
-        if(this.ans!=null){
-            return this.ans;
-        }
-        inorderSuccessor(root.left , p);
-        if(this.pre==p){
-            this.ans=root;
-            this.pre=root; // 这一步要把 pre 改成别的 不然 返回到前面  pre 还是满足条件就会把 ans overwrite 。。。
-            return this.ans;
-        }
-        this.pre=root;
-        inorderSuccessor(root.right , p);
+        inorder(root , p);
         return this.ans;
+
+
+//        if(root==null){
+//            return null;
+//        }
+//        if(this.ans!=null){
+//            return this.ans;
+//        }
+//        inorderSuccessor(root.left , p);
+//        if(this.pre==p){
+//            this.ans=root;
+//            this.pre=root; // 这一步要把 pre 改成别的 不然 返回到前面  pre 还是满足条件就会把 ans overwrite 。。。
+//            return this.ans;
+//        }
+//        this.pre=root;
+//        inorderSuccessor(root.right , p);
+//        return this.ans;
+    }
+
+
+    private void inorder(TreeNode n , TreeNode p) {
+        if (n == null || this.ans!=null) {
+            return;
+        }
+        inorder(n.left , p);
+        if(this.pre==p){
+            this.ans=n;
+            this.pre=n;
+            return;
+        }
+        this.pre=n;
+        inorder(n.right , p);
     }
 }

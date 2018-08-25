@@ -63,7 +63,7 @@ public class DesignCircularQueue622 {
         if(isEmpty()){
             return false;
         }
-        this.start++;
+        this.start=(this.start+1)/this.k;
         return true;
     }
 
