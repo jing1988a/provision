@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RectangleOverlap836.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java">
+      <file leaf-file-name="RectangleOverlap836.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="43" column="96" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="96" />
+            <state relative-caret-position="285">
+              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeUpsideDown156.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="e#1161#1162#0" expanded="true" />
+                <element signature="e#1192#1193#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/hard/BasicCalculatorIII772.java" />
         <option value="$PROJECT_DIR$/java/src/hard/LongestConsecutiveSequence128.java" />
         <option value="$PROJECT_DIR$/java/src/hard/NumberofIslandsII305.java" />
         <option value="$PROJECT_DIR$/java/src/hard/SlidingWindowMaximum239.java" />
@@ -104,8 +117,9 @@
         <option value="$PROJECT_DIR$/java/src/medium/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/medium/TopKFrequentWords692.java" />
         <option value="$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java" />
-        <option value="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" />
+        <option value="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" />
+        <option value="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" />
       </list>
     </option>
   </component>
@@ -116,9 +130,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
+    <option name="x" value="276" />
     <option name="y" value="23" />
-    <option name="width" value="1386" />
+    <option name="width" value="1164" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -155,6 +169,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="mid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="23" width="1386" height="836" extended-state="0" />
+    <frame x="276" y="23" width="1164" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -335,7 +357,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19717261" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19717261" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32746956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
@@ -693,13 +715,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/hard/SlidingWindowMaximum239.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/TextJustification68.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -1043,10 +1058,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java">
+    <entry file="file://$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="43" column="96" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="96" />
+        <state relative-caret-position="285">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
