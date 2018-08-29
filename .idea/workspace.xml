@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TernaryExpressionParser439.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TernaryExpressionParser439.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="40" selection-start-line="40" selection-end-line="70" selection-end-column="5" />
+            <state relative-caret-position="108">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplitArraywithEqualSum548.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="21" selection-start-line="21" selection-end-line="42" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -136,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/BinaryTreeVerticalOrderTraversal314.java" />
         <option value="$PROJECT_DIR$/java/src/medium/DesignTicTacToe348.java" />
         <option value="$PROJECT_DIR$/java/src/medium/CourseScheduleII210.java" />
         <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
@@ -187,6 +194,7 @@
         <option value="$PROJECT_DIR$/java/src/fb/hard/LongestSubstringwithAtMostKDistinctCharacters340.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/TheMaze490.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java" />
+        <option value="$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java" />
       </list>
     </option>
   </component>
@@ -825,13 +833,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/hard/WildcardMatching44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/WordLadderII126.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-194">
@@ -1180,8 +1181,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="40" selection-start-line="40" selection-end-line="70" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="21" selection-start-line="21" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
