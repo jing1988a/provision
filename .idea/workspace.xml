@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SolveTheEquation640.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReverseWordsinStringII186.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/ReverseWordsinStringII186.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +97,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeUpsideDown156.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeUpsideDown156.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+            <state relative-caret-position="188">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoundaryofBinaryTree545.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="49" selection-start-line="49" selection-end-line="107" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/ZigzagIterator281.java" />
         <option value="$PROJECT_DIR$/java/src/medium/WordBreakII140.java" />
         <option value="$PROJECT_DIR$/java/src/hard/DesignSearchAutocompleteSystem642.java" />
         <option value="$PROJECT_DIR$/java/src/hard/AlienDictionary269.java" />
@@ -196,6 +197,7 @@
         <option value="$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java" />
         <option value="$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java" />
         <option value="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" />
+        <option value="$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java" />
       </list>
     </option>
   </component>
@@ -251,15 +253,8 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ms" type="462c0819:PsiDirectoryNode" />
-              <item name="mid" type="462c0819:PsiDirectoryNode" />
+              <item name="fb" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,7 +447,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25972396" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25862068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
@@ -840,13 +835,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/BTreePath257.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/BestTimetoBuyandSellStockII122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -1198,8 +1186,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+        <state relative-caret-position="188">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="49" selection-start-line="49" selection-end-line="107" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
