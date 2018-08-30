@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,22 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberofDistinctIslands694.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/fb/medium/NumberofDistinctIslands694.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SolveTheEquation640.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="780">
               <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
             </state>
           </provider>
@@ -41,7 +29,7 @@
       <file leaf-file-name="ReverseWordsinStringII186.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/ReverseWordsinStringII186.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="495">
               <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,8 +41,8 @@
       <file leaf-file-name="BinaryTreeLongestConsecutiveSequenceII549.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BinaryTreeLongestConsecutiveSequenceII549.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="705">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -62,7 +50,7 @@
       <file leaf-file-name="LongestSubstringwithAtMostKDistinctCharacters340.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/hard/LongestSubstringwithAtMostKDistinctCharacters340.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="150">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,8 +62,8 @@
       <file leaf-file-name="TheMaze490.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TheMaze490.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+            <state relative-caret-position="870">
+              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -83,7 +71,7 @@
       <file leaf-file-name="TernaryExpressionParser439.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="585">
               <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
             </state>
           </provider>
@@ -92,8 +80,8 @@
       <file leaf-file-name="SplitArraywithEqualSum548.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="555">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -101,20 +89,29 @@
       <file leaf-file-name="VerPreorderSequenceinBinarySearchTree255.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            <state relative-caret-position="765">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumofSquareNumbers633.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumofSquareNumbers633.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="17" selection-start-line="17" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="423">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeUpsideDown156.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -188,7 +185,6 @@
         <option value="$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java" />
         <option value="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" />
-        <option value="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/NumberofDistinctIslands694.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/ReverseWordsinStringII186.java" />
@@ -199,6 +195,7 @@
         <option value="$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java" />
         <option value="$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java" />
+        <option value="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" />
       </list>
     </option>
   </component>
@@ -209,9 +206,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="601" />
+    <option name="x" value="644" />
     <option name="y" value="23" />
-    <option name="width" value="839" />
+    <option name="width" value="796" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -222,6 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,8 +251,7 @@
               <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fb" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="ms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="provision" type="b2602c69:ProjectViewProjectNode" />
@@ -261,14 +259,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ms" type="462c0819:PsiDirectoryNode" />
+              <item name="mid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,23 +437,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="23" width="839" height="836" extended-state="0" />
+    <frame x="644" y="23" width="796" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.3243243" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32205683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32205683" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26024097" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25972396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
@@ -470,6 +466,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32746956" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49933246" weight="0.3243243" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1117,16 +1114,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/NumberofDistinctIslands694.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
+        <state relative-caret-position="525">
           <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1136,14 +1126,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
+        <state relative-caret-position="780">
           <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/ReverseWordsinStringII186.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="495">
           <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1153,14 +1143,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BinaryTreeLongestConsecutiveSequenceII549.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="705">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/LongestSubstringwithAtMostKDistinctCharacters340.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="150">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1170,39 +1160,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TheMaze490.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+        <state relative-caret-position="870">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="585">
           <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="555">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        <state relative-caret-position="765">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" selection-start-line="17" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="423">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
         </state>
       </provider>
     </entry>

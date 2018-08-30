@@ -52,6 +52,8 @@ public class BinaryTreeUpsideDown156 {
             TreeNode left=root.left;
             left.right=root;
             left.left=newLeft;
+            root.left=null; //
+            root.right=null;//要把根 断开不然形成了个环就很僵了
             return newRoot;
         }else{
             return root;
