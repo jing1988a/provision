@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,27 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumofSquareNumbers633.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreeUpsideDown156.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BoundaryofBinaryTree545.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SurfaceAreaof3DShapes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes.java">
+      <file leaf-file-name="SurfaceAreaof3DShapes892.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes892.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="40" selection-start-line="40" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="218">
+              <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllPossibleFullBinaryTrees894.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/hard/SudokuSolver37.java" />
         <option value="$PROJECT_DIR$/java/src/hard/SubstringConcatenationAllWords30.java" />
         <option value="$PROJECT_DIR$/java/src/hard/StickersSpellWord691.java" />
         <option value="$PROJECT_DIR$/java/src/hard/WordSearchII212.java" />
@@ -203,6 +192,7 @@
         <option value="$PROJECT_DIR$/java/src/fb/medium/FindKClosestElements658.java" />
         <option value="$PROJECT_DIR$/java/src/fb/hard/RearrangeStringkDistanceApart358.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java" />
       </list>
     </option>
   </component>
@@ -213,9 +203,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
+    <option name="x" value="547" />
     <option name="y" value="23" />
-    <option name="width" value="796" />
+    <option name="width" value="892" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -252,6 +242,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="eight_hundred_plus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="provision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_fb" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fb" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,7 +434,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="23" width="796" height="836" extended-state="0" />
+    <frame x="547" y="23" width="892" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -444,7 +449,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25596818" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2552941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
@@ -874,20 +879,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/IntersectionTwoArrays349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/MeetingRooms252.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/LowestCommonAncestor235.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1226,10 +1217,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes.java">
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes892.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" selection-start-line="40" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="218">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
