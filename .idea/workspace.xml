@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java" afterDir="false" />
-    </list>
+    <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +101,8 @@
       <file leaf-file-name="AllPossibleFullBinaryTrees894.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <state relative-caret-position="198">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1233,8 +1231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
