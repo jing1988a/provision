@@ -3,6 +3,7 @@ package eight_hundred_plus;
 
 
 import java.util.HashMap;
+import java.util.Map;
 
 //Return any binary tree that matches the given preorder and postorder traversals.
 //
@@ -37,7 +38,7 @@ public class ConstructBinaryTreePreorderandPostorderTraversal889 {
         return recur(pre , post , 0 , this.l-1 , postValToIdx);
 
     }
-    private TreeNode recur(int[] pre , int[] post , int start , int end   , Map<Integer , Integer>postValToIdx){
+    private TreeNode recur(int[] pre , int[] post , int start , int end   , Map<Integer , Integer> postValToIdx){
         if(start>end || this.curPreIdx==this.l){
             return null;
         }
