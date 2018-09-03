@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/LengthofLongestFibonacciSubsequence873.java" afterDir="false" />
-    </list>
+    <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +95,11 @@
       <file leaf-file-name="LengthofLongestFibonacciSubsequence873.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/LengthofLongestFibonacciSubsequence873.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            <state relative-caret-position="303">
+              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/WordBreak139.java" />
         <option value="$PROJECT_DIR$/java/src/hard/IntegerEnglishWords273.java" />
         <option value="$PROJECT_DIR$/java/src/hard/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
         <option value="$PROJECT_DIR$/java/src/hard/ShortestDistancefromAllBuildings317.java" />
@@ -193,6 +193,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MiddleoftheLinkedList876.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/KokoEatingBananas875.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/WalkingRobotSimulation874.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/LengthofLongestFibonacciSubsequence873.java" />
       </list>
     </option>
   </component>
@@ -1237,8 +1238,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/LengthofLongestFibonacciSubsequence873.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        <state relative-caret-position="303">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
