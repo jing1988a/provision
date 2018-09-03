@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/KokoEatingBananas875.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/WalkingRobotSimulation874.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IncreasingOrderSearchTree897.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BitwiseORsofSubarrays898.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KokoEatingBananas875.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KokoEatingBananas875.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/KokoEatingBananas875.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="573">
+              <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalkingRobotSimulation874.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/WalkingRobotSimulation874.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/SubarraySumEqualsK560.java" />
-        <option value="$PROJECT_DIR$/java/src/medium/TaskScheduler621.java" />
         <option value="$PROJECT_DIR$/java/src/medium/WordBreak139.java" />
         <option value="$PROJECT_DIR$/java/src/hard/IntegerEnglishWords273.java" />
         <option value="$PROJECT_DIR$/java/src/hard/LongestSubstringwithAtMostTwoDistinctCharacters159.java" />
@@ -193,6 +195,8 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/StoneGame877.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MiddleoftheLinkedList876.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/KokoEatingBananas875.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/WalkingRobotSimulation874.java" />
       </list>
     </option>
   </component>
@@ -202,7 +206,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -434,7 +438,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="837" extended-state="0" />
+    <frame x="-1" y="24" width="1440" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -879,13 +883,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/StrobogrammaticNumber246.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/StrStr28.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1234,8 +1231,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/KokoEatingBananas875.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="573">
+          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/WalkingRobotSimulation874.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
