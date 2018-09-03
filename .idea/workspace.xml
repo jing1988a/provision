@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConstructBinaryTreePreorderandPostorderTraversal889.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ConstructBinaryTreePreorderandPostorderTraversal889.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FairCandySwap888.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FairCandySwap888.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectionAreaof3DShapes883.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProjectionAreaof3DShapes883.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoatstoSavePeople881.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -148,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/medium/RandomPickDup398.java" />
         <option value="$PROJECT_DIR$/java/src/medium/NumberLongestIncreasingSubsequence673.java" />
@@ -199,6 +195,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java" />
       </list>
     </option>
   </component>
@@ -885,13 +882,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/PalinLInkedList234.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/ReverseLL206.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1240,8 +1230,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
