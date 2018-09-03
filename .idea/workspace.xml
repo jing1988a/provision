@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BombEnemy361.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BombEnemy361.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConstructBinaryTreePreorderandPostorderTraversal889.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ConstructBinaryTreePreorderandPostorderTraversal889.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,11 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UncommonWordsfromTwoSentence884.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UncommonWordsfromTwoSentence884.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectionAreaof3DShapes883.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -145,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/HIndex274.java" />
         <option value="$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
         <option value="$PROJECT_DIR$/java/src/medium/RandomPickDup398.java" />
@@ -196,6 +198,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" />
       </list>
     </option>
   </component>
@@ -882,13 +885,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/ReadNChar157.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/PalinLInkedList234.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1234,8 +1230,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
