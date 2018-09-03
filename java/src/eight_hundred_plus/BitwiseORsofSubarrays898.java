@@ -38,6 +38,7 @@ import java.util.Set;
 //        1 <= A.length <= 50000
 //        0 <= A[i] <= 10^9
 public class BitwiseORsofSubarrays898 {
+    //TLE!!!!!!!!!
     public int subarrayBitwiseORs(int[] A) {
         int l=A.length;
         int[][] dp=new int[l][l];
