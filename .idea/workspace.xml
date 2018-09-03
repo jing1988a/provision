@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncreasingOrderSearchTree897.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IncreasingOrderSearchTree897.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BitwiseORsofSubarrays898.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/fb/easy/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/easy/MeetingRooms252.java" />
         <option value="$PROJECT_DIR$/java/src/easy/ReadNChar157.java" />
         <option value="$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java" />
         <option value="$PROJECT_DIR$/java/src/medium/HIndex274.java" />
@@ -157,6 +174,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FairCandySwap888.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/DecodedStringIndex880.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MonotonicArray896.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java" />
       </list>
     </option>
   </component>
@@ -843,13 +861,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/MovingAveragefromDataStream346.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/NumToExcel168.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1073,13 +1084,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/WordFrequency192.java" />
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus.kt" />
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/RearrangeStringkDistanceApart358.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-448">
@@ -1190,10 +1194,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java">
+    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
