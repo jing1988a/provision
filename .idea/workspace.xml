@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiralMatrixIII885.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpiralMatrixIII885.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UncommonWordsfromTwoSentence884.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -137,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/easy/TwoSumIIIDatastructuredesign170.java" />
         <option value="$PROJECT_DIR$/java/src/medium/HIndex274.java" />
         <option value="$PROJECT_DIR$/java/src/medium/GraphValidTree261.java" />
         <option value="$PROJECT_DIR$/java/src/medium/MeetingRoomsII253.java" />
@@ -188,6 +195,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MonotonicArray896.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" />
       </list>
     </option>
   </component>
@@ -874,13 +882,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/easy/RemoveDup26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/easy/ReadNChar157.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1226,8 +1227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
