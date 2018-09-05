@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/CardFlippingGame822.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PeakIndexinaMountainArray852.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/PeakIndexinaMountainArray852.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MagicSquaresInGrid840.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/MagicSquaresInGrid840.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,11 +100,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsecutiveNumbersSum829.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConsecutiveNumbersSum829.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
               <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardFlippingGame822.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/CardFlippingGame822.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="30" selection-start-line="30" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -149,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/NumberofDistinctIslands694.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java" />
@@ -200,6 +198,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FlippinganImage832.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/PositionsofLargeGroups830.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/CardFlippingGame822.java" />
       </list>
     </option>
   </component>
@@ -915,13 +914,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/hard/LongestSubstringwithAtMostKDistinctCharacters340.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/TheMaze490.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -1301,6 +1293,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/CardFlippingGame822.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" selection-start-line="30" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
