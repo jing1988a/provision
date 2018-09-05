@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/ImageOverlap835.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,20 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeafSimilarTrees872.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/LeafSimilarTrees872.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AdvantageShuffle870.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AdvantageShuffle870.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +94,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageOverlap835.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageOverlap835.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ImageOverlap835.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="32" selection-start-line="32" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="258">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindAndReplaceinString833.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="70" column="39" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/medium/InorderSuccessorBST285.java" />
         <option value="$PROJECT_DIR$/java/src/medium/TinyURL535.java" />
         <option value="$PROJECT_DIR$/java/src/medium/TopKFrequentWords692.java" />
         <option value="$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java" />
@@ -202,6 +198,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/PushDominoes838.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/New21Game837.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ImageOverlap835.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java" />
       </list>
     </option>
   </component>
@@ -212,9 +209,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="639" />
-    <option name="y" value="24" />
-    <option name="width" value="796" />
+    <option name="x" value="508" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
     <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -329,20 +326,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PushDominoes838">
-    <configuration name="BombEnemy361" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fb.medium.BombEnemy361" />
+  <component name="RunManager" selected="Application.FindAndReplaceinString833">
+    <configuration name="ConstructBinaryTreePreorderandPostorderTraversal889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.ConstructBinaryTreePreorderandPostorderTraversal889" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fb.medium.*" />
+          <option name="PATTERN" value="eight_hundred_plus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConstructBinaryTreePreorderandPostorderTraversal889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.ConstructBinaryTreePreorderandPostorderTraversal889" />
+    <configuration name="FindAndReplaceinString833" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.FindAndReplaceinString833" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -427,19 +424,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.BombEnemy361" />
       <item itemvalue="Application.GroupsofSpecialEquivalentStrings839" />
       <item itemvalue="Application.RearrangeStringkDistanceApart358" />
       <item itemvalue="Application.ConstructBinaryTreePreorderandPostorderTraversal889" />
       <item itemvalue="Application.PushDominoes838" />
+      <item itemvalue="Application.FindAndReplaceinString833" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAndReplaceinString833" />
         <item itemvalue="Application.PushDominoes838" />
         <item itemvalue="Application.ConstructBinaryTreePreorderandPostorderTraversal889" />
         <item itemvalue="Application.RearrangeStringkDistanceApart358" />
         <item itemvalue="Application.GroupsofSpecialEquivalentStrings839" />
-        <item itemvalue="Application.BombEnemy361" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +463,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="24" width="796" height="838" extended-state="0" />
+    <frame x="508" y="25" width="927" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -477,17 +474,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5011459" side_tool="true" weight="0.32586557" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32205683" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3211876" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49933246" weight="0.33863965" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2642857" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26392573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30634278" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" weight="0.30634278" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -902,8 +899,14 @@
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="86" />
+      <option name="time" value="87" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -911,13 +914,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/SolveTheEquation640.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -1286,8 +1282,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ImageOverlap835.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="32" selection-start-line="32" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="258">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="70" column="39" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
