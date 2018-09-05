@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/FlippinganImage832.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/PositionsofLargeGroups830.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MirrorReflection858.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/MirrorReflection858.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PeakIndexinaMountainArray852.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/PeakIndexinaMountainArray852.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,14 +98,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PositionsofLargeGroups830.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PositionsofLargeGroups830.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/PositionsofLargeGroups830.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="33" selection-start-line="33" selection-end-line="60" selection-end-column="5" />
+            <state relative-caret-position="590">
+              <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsecutiveNumbersSum829.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -150,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/easy/subTreeOfOther572.java" />
         <option value="$PROJECT_DIR$/java/src/ms/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/ms/easy/RectangleOverlap836.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/NumberofDistinctIslands694.java" />
@@ -201,6 +199,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FindAndReplaceinString833.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FlippinganImage832.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/PositionsofLargeGroups830.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java" />
       </list>
     </option>
   </component>
@@ -212,7 +211,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="625" />
-    <option name="y" value="25" />
+    <option name="y" value="23" />
     <option name="width" value="809" />
     <option name="height" value="838" />
   </component>
@@ -465,7 +464,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="625" y="25" width="809" height="838" extended-state="0" />
+    <frame x="625" y="23" width="809" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -916,13 +915,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BinaryTreeLongestConsecutiveSequenceII549.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/LongestSubstringwithAtMostKDistinctCharacters340.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1297,11 +1289,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/PositionsofLargeGroups830.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" selection-start-line="33" selection-end-line="60" selection-end-column="5" />
+        <state relative-caret-position="590">
+          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ConsecutiveNumbersSum829.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
