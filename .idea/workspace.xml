@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/LargestTriangleArea812.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofLinesToWriteString806.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestTriangleArea812.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargestTriangleArea812.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/LargestTriangleArea812.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="90">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberofLinesToWriteString806.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofLinesToWriteString806.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="35" selection-start-line="35" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -64,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/fb/medium/TheMaze490.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/TernaryExpressionParser439.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/SplitArraywithEqualSum548.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java" />
@@ -115,6 +124,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SoupServings808.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ExpressiveWords809.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/LargestTriangleArea812.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofLinesToWriteString806.java" />
       </list>
     </option>
   </component>
@@ -125,8 +135,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="643" />
-    <option name="y" value="23" />
+    <option name="x" value="640" />
+    <option name="y" value="28" />
     <option name="width" value="791" />
     <option name="height" value="820" />
   </component>
@@ -379,7 +389,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="23" width="791" height="820" extended-state="0" />
+    <frame x="640" y="28" width="791" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -830,13 +840,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/fb/medium/WordFrequency192.java" />
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus.kt" />
     <entry file="file://$PROJECT_DIR$/java/src/fb/hard/RearrangeStringkDistanceApart358.java">
@@ -1223,8 +1226,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/LargestTriangleArea812.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofLinesToWriteString806.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="35" selection-start-line="35" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
