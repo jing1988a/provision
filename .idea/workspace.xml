@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/FindEventualSafeStates802.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/UniqueMorseCodeWords804.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindEventualSafeStates802.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindEventualSafeStates802.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindEventualSafeStates802.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+            <state relative-caret-position="28">
+              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimilarRGBColor800.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -96,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/fb/medium/VerPreorderSequenceinBinarySearchTree255.java" />
         <option value="$PROJECT_DIR$/java/src/fb/easy/SumofSquareNumbers633.java" />
         <option value="$PROJECT_DIR$/java/src/ms/mid/BinaryTreeUpsideDown156.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/BoundaryofBinaryTree545.java" />
@@ -147,6 +153,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofLinesToWriteString806.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/UniqueMorseCodeWords804.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/FindEventualSafeStates802.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java" />
       </list>
     </option>
   </component>
@@ -157,7 +164,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
+    <option name="x" value="641" />
     <option name="y" value="28" />
     <option name="width" value="791" />
     <option name="height" value="820" />
@@ -274,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindEventualSafeStates802">
+  <component name="RunManager" selected="Application.SimilarRGBColor800">
     <configuration name="ConstructBinaryTreePreorderandPostorderTraversal889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.ConstructBinaryTreePreorderandPostorderTraversal889" />
       <module name="java" />
@@ -319,13 +326,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RearrangeStringkDistanceApart358" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fb.hard.RearrangeStringkDistanceApart358" />
+    <configuration name="SimilarRGBColor800" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.SimilarRGBColor800" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fb.hard.*" />
+          <option name="PATTERN" value="eight_hundred_plus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,19 +379,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RearrangeStringkDistanceApart358" />
       <item itemvalue="Application.ConstructBinaryTreePreorderandPostorderTraversal889" />
       <item itemvalue="Application.PushDominoes838" />
       <item itemvalue="Application.FindAndReplaceinString833" />
       <item itemvalue="Application.FindEventualSafeStates802" />
+      <item itemvalue="Application.SimilarRGBColor800" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimilarRGBColor800" />
         <item itemvalue="Application.FindEventualSafeStates802" />
         <item itemvalue="Application.FindAndReplaceinString833" />
         <item itemvalue="Application.PushDominoes838" />
         <item itemvalue="Application.ConstructBinaryTreePreorderandPostorderTraversal889" />
-        <item itemvalue="Application.RearrangeStringkDistanceApart358" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +418,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="28" width="791" height="820" extended-state="0" />
+    <frame x="641" y="28" width="791" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -865,8 +872,20 @@
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="90" />
+      <option name="time" value="92" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -874,13 +893,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/hard/RearrangeStringkDistanceApart358.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/AllPossibleFullBinaryTrees894.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
@@ -1282,8 +1294,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindEventualSafeStates802.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        <state relative-caret-position="28">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/SimilarRGBColor800.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
         </state>
       </provider>
     </entry>
