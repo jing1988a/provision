@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/DominoandTrominoTiling790.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/EscapeTheGhosts789.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DominoandTrominoTiling790.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DominoandTrominoTiling790.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/DominoandTrominoTiling790.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="53">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EscapeTheGhosts789.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/EscapeTheGhosts789.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/fb/easy/GroupsofSpecialEquivalentStrings839.java" />
         <option value="$PROJECT_DIR$/java/src/fb/medium/FindKClosestElements658.java" />
         <option value="$PROJECT_DIR$/java/src/fb/hard/RearrangeStringkDistanceApart358.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SurfaceAreaof3DShapes.java" />
@@ -124,6 +132,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/NumberofSubarrayswithBoundedMaximum795.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ValidTicTacToeState794.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/DominoandTrominoTiling790.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/EscapeTheGhosts789.java" />
       </list>
     </option>
   </component>
@@ -863,13 +872,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/fb/medium/BinaryTreeLongestConsecutiveSequence298.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/FindandReplacePattern890.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1225,8 +1227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/DominoandTrominoTiling790.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="53">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/EscapeTheGhosts789.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
