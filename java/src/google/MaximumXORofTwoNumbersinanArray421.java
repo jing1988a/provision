@@ -18,5 +18,6 @@ public class MaximumXORofTwoNumbersinanArray421 {
     public int findMaximumXOR(int[] nums) {
 //        https://kingsfish.github.io/2017/12/15/Leetcode-421-Maximum-XOR-of-Two-Numbers-in-an-Array/
 //        了解一下。
+        return 0;
     }
 }
