@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/eight_hundred_plus/MaxChunksToMakeSorted769.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RLEIterator900.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RLEIterator900.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="197">
+              <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxChunksToMakeSorted769.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/MaxChunksToMakeSorted769.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -59,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/IncreasingOrderSearchTree897.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BitwiseORsofSubarrays898.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" />
@@ -110,6 +118,7 @@
         <option value="$PROJECT_DIR$/java/src/google/SplitBST776.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/OnlineStockSpan901.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java" />
+        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MaxChunksToMakeSorted769.java" />
       </list>
     </option>
   </component>
@@ -120,9 +129,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
+    <option name="x" value="613" />
     <option name="y" value="29" />
-    <option name="width" value="789" />
+    <option name="width" value="820" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -343,7 +352,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="29" width="789" height="820" extended-state="0" />
+    <frame x="613" y="29" width="820" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -363,7 +373,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30567083" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30567083" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -822,13 +832,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java</url>
-          <line>82</line>
+          <line>87</line>
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java</url>
-          <line>54</line>
+          <line>55</line>
           <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
@@ -841,13 +851,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
@@ -1210,11 +1213,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="197">
+          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/MaxChunksToMakeSorted769.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
