@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c6a6a2-4cb6-48eb-9498-7120a3ddc9f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/google/ReorganizeString767.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/google/OpentheLock752.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReorganizeString767.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReorganizeString767.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/google/ReorganizeString767.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
+            <state relative-caret-position="51">
+              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpentheLock752.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/google/OpentheLock752.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="71" column="46" lean-forward="true" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/SpiralMatrixIII885.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/UncommonWordsfromTwoSentence884.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/ProjectionAreaof3DShapes883.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java" />
@@ -131,6 +142,7 @@
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/RLEIterator900.java" />
         <option value="$PROJECT_DIR$/java/src/eight_hundred_plus/MaxChunksToMakeSorted769.java" />
         <option value="$PROJECT_DIR$/java/src/google/ReorganizeString767.java" />
+        <option value="$PROJECT_DIR$/java/src/google/OpentheLock752.java" />
       </list>
     </option>
   </component>
@@ -141,9 +153,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
-    <option name="y" value="42" />
-    <option name="width" value="993" />
+    <option name="x" value="412" />
+    <option name="y" value="23" />
+    <option name="width" value="1000" />
     <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -227,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReorganizeString767">
+  <component name="RunManager" selected="Application.OpentheLock752">
     <configuration name="CheapestFlightsWithinKStops787" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.CheapestFlightsWithinKStops787" />
       <module name="java" />
@@ -235,6 +247,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="eight_hundred_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OpentheLock752" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="google.OpentheLock752" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,17 +286,6 @@
     </configuration>
     <configuration name="RotateString796" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.RotateString796" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="eight_hundred_plus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SimilarRGBColor800" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eight_hundred_plus.SimilarRGBColor800" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -325,19 +337,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SimilarRGBColor800" />
       <item itemvalue="Application.RotateString796" />
       <item itemvalue="Application.CheapestFlightsWithinKStops787" />
       <item itemvalue="Application.RLEIterator900" />
       <item itemvalue="Application.ReorganizeString767" />
+      <item itemvalue="Application.OpentheLock752" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OpentheLock752" />
         <item itemvalue="Application.ReorganizeString767" />
         <item itemvalue="Application.RLEIterator900" />
         <item itemvalue="Application.CheapestFlightsWithinKStops787" />
         <item itemvalue="Application.RotateString796" />
-        <item itemvalue="Application.SimilarRGBColor800" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +376,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="41" width="820" height="820" extended-state="0" />
+    <frame x="412" y="23" width="1000" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -379,12 +392,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933246" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26092544" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16244131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489019" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30567083" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.80507344" visible="true" weight="0.30567083" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32922733" />
@@ -859,8 +872,20 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/google/OpentheLock752.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/google/OpentheLock752.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="97" />
+      <option name="time" value="100" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -868,13 +893,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/BoatstoSavePeople881.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eight_hundred_plus/StoneGame877.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1240,8 +1258,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/google/ReorganizeString767.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
+        <state relative-caret-position="51">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/google/OpentheLock752.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="71" column="46" lean-forward="true" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
