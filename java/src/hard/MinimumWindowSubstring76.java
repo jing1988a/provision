@@ -30,11 +30,7 @@ public class MinimumWindowSubstring76 {
         for (char c : t.toCharArray()) {
             charNeed.add(c);
             targetCharCount.put(c , targetCharCount.getOrDefault(c , 0)+1);
-//            if (targetCharCount.containsKey(c)) {
-//                targetCharCount.put(c, targetCharCount.get(c) + 1);
-//            } else {
-//                targetCharCount.put(c, 1);
-//            }
+
         }
         int ansL=Integer.MAX_VALUE;
         String ans="";
@@ -42,11 +38,7 @@ public class MinimumWindowSubstring76 {
             char c=s.charAt(end);
             if(targetCharCount.containsKey(c)){
                 charCount.put(c  , charCount.getOrDefault(c , 0)+1);
-//                if(charCount.containsKey(c)){
-//                    charCount.put(c , charCount.get(c)+1);
-//                }else{
-//                    charCount.put(c , 1);
-//                }
+
                 if(charCount.get(c)>=targetCharCount.get(c)){
                     charNeed.remove(c);
                     if (charNeed.isEmpty()){
